@@ -1,0 +1,725 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Signtrix</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Le styles -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="css/bootstrap-responsive.css" rel="stylesheet">
+    <link href="css/newstyle.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet" >
+    
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+    <!--[if lt IE 9]>
+      <script src="../assets/js/html5shiv.js"></script>
+    <![endif]-->
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">
+                    <link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">
+                                   <link rel="shortcut icon" href="../assets/ico/favicon.png">
+  </head>
+
+  <body data-spy="scroll" data-target=".navbar">
+      <!-- Wrap the .navbar in .container to center it within the absolutely positioned parent. -->
+        <div class="navbar navbar-inverse navbar-fixed-top">
+          <div class="navbar-inner">
+            <div class="container">
+            <!-- Responsive Navbar Part 1: Button for triggering responsive navbar (not covered in tutorial). Include responsive CSS to utilize. -->
+            <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+
+            <a class="brand" href="index.html"><img src="img/logo.png">Signtrix</a>
+            <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
+            <div class="nav-collapse collapse">
+              <ul class="nav pull-right">
+                <!-- <li class="active"><a href="#">Home</a></li> -->
+                <li><a href="index.html" class="smoothScroll">About</a></li>
+                <li><a href="services.html" class="smoothScroll">Services</a></li>
+                <li><a href="partners.html" class="smoothScroll" id="yellow-brand">Partners</a></li>
+                <li><a href="venues.html" class="smoothScroll">Venues</a></li>
+                <li><a href="contact.html" class="smoothScroll">Contact</a></li>
+              </ul>
+            </div><!--/.nav-collapse -->
+           </div><!-- container -->
+          </div><!-- /.navbar-inner -->
+        </div><!-- /.navbar -->
+<div class="container">
+
+      
+      <div id="partners"></div>
+         <hr class="sixty">
+
+      <div class="row-fluid">
+        <div class="span3">
+          <div class="info">
+           <i class="icon-group icon-4x"></i>
+          <h1>Parnters</h1>
+          <p>Our list of current partners</p>
+                  <button class="btn btn-inverse" id="yellow-brand"><a href="contact.html">Get a free consultation</a></button>
+
+               <h3 id="yellow-brand"></h3>
+          </div>
+       </div>
+        <div class="span9 bl">
+          <ul class="thumbnails">
+  <li class="span3">
+    <div class="thumbnail">
+      <img src="img/convenienceplus.png" alt="">
+      <h3>Covenience Plus</h3>
+      <p><span class="emp-silver">Specialty:</span> <br>
+        Miscellaneous<br>
+      <span class="emp-silver">Location:</span><br>
+       2555 Victoria Park Ave</p>
+    </div>
+  </li>
+    <li class="span3">
+    <div class="thumbnail">
+      <img src="img/currykitchen.png" alt="">
+      <h3>Curry Kitchen</h3>
+      <p><span class="emp-silver">Specialty:</span><br> Food Services/Students<br>
+        <span class="emp-silver">Location:</span><br> 117 Dundas St E,<br>Ryerson University</p>
+    </div>
+  </li>
+    <li class="span3">
+    <div class="thumbnail">
+      <img src="img/silversnail.png" alt="">
+      <h3>Silver Snail</h3>
+      <p><span class="emp-silver">Specialty:</span><br> Students<br>
+       <span class="emp-silver">Location:</span><br> 329 Yonge St, <br>Ryerson University</p>
+    </div>
+  </li>
+    <li class="span3">
+    <div class="thumbnail">
+      <img src="img/gasner-dental.png" alt="">
+      <h3>Gasner Dental Associates</h3>
+      <p><span class="emp-silver">Specialty:</span><br> 
+        Dental Health<br>
+      <span class="emp-silver">Location:</span><br> 3521 Bathurst St.</p>
+    </div>
+  </li>
+</ul>
+
+          <ul class="thumbnails">
+  <li class="span3">
+    <div class="thumbnail">
+      <img src="img/sakura.png" alt="">
+        <h3>Sakura</h3>
+      <p><span class="emp-silver">Specialty:</span><br>
+Food Services<br>
+<span class="emp-silver">Location:</span><br>
+4700 Keele St
+</p>
+    </div>
+  </li>
+    <li class="span3">
+    <div class="thumbnail">
+      <img src="img/vietpho.png" alt="">
+      <h3>Pho Vietnamese
+Delight
+</h3>
+      <p><span class="emp-silver">Specialty:</span><br>
+Vietnamese Cuisine<br>
+<span class="emp-silver">Locations:</span><br>
+5533 Yonge St.<br>
+3555 Don Mills Rd.<br>
+</p>
+    </div>
+  </li>
+    <li class="span3">
+    <div class="thumbnail">
+      <img src="img/ginger.png" alt="">
+      <h3>Ginger</h3>
+      <p><span class="emp-silver">Specialty:</span><br>
+Food Services</br>
+<span class="emp-silver">Location:</span><br>
+521 Bloor St.
+</p>
+    </div>
+  </li>
+    <li class="span3">
+    <div class="thumbnail">
+      <img src="img/eatbastard.png" alt="">
+      <h3>Fat Bastard Burrito
+</h3>
+      <p><span class="emp-silver">Specialty:</span><br>
+Mexican Cuisine <br>
+<span class="emp-silver">
+Location:</span><br>
+1921 Eglinton Ave
+</p>
+    </div>
+  </li>
+</ul>
+
+          <ul class="thumbnails">
+  <li class="span3">
+    <div class="thumbnail">
+      <img src="img/noka.png" alt="">
+      <h3>Noka</h3>
+      <p><span class="emp-silver">Specialty:</span><br>
+Japanese Cuisine <br>
+<span class="emp-silver">
+Location:</span><br>
+513 Bloor St. West
+</p>
+    </div>
+  </li>
+    <li class="span3">
+    <div class="thumbnail">
+      <img src="img/Oshio.png" alt="">
+      <h3>Oshio Restaurant</h3>
+      <p><span class="emp-silver">Specialty:</span><br>
+Japanese Cuisine<br>
+<span class="emp-silver">
+Location:</span><br>
+2900 Steeles Ave.
+</p>
+    </div>
+  </li>
+    <li class="span3">
+    <div class="thumbnail">
+      <img src="img/allans-bakery.png" alt="">
+      <h3>Allan's Bakery</h3>
+      <p><span class="emp-silver">Specialty:</span><br>
+Food Services<br>
+<span class="emp-silver">
+Locations:</span><br>
+3056 Don Mills Rd.<br>
+3447 Kennedy Rd.
+</p>
+    </div>
+  </li>
+    <li class="span3">
+    <div class="thumbnail">
+      <img src="img/campusbbt.png" alt="">
+      <h3>Campus Bubble Tea</h3>
+      <p><span class="emp-silver">Specialty:</span><br>
+Bubble Tea<br>
+<span class="emp-silver">
+Location:</span><br>
+4700 Keele St.
+</p>
+    </div>
+  </li>
+</ul>
+          <ul class="thumbnails">
+  <li class="span3">
+    <div class="thumbnail">
+     <img src="img/agra.png" alt="">      
+     <h3>AGRA Fine Indian Cuisine
+</h3>
+      <p><span class="emp-silver">Specialty:</span><br>
+Indian Cuisine<br>
+<span class="emp-silver">
+Locations:</span><br>
+4850 Yonge St.<br>
+365 King St.
+</p>
+    </div>
+  </li>
+    <li class="span3">
+    <div class="thumbnail">
+     <img src="img/bh.png" alt="">
+      <h3>Bruce Hairstylist</h3>
+      <p><span class="emp-silver">Specialty:</span><br>
+Hair Design<br>
+<span class="emp-silver">
+Location:</span><br>
+5418 Yonge St.
+</p>
+    </div>
+  </li>
+    <li class="span3">
+    <div class="thumbnail">
+     <img src="img/coffeetime.png" alt="">
+           <h3>Coffee Time</h3>
+      <p><span class="emp-silver">Specialty:</span><br>
+Food Services<br>
+<span class="emp-silver">
+Location:</span><br>
+1008 Wilson Ave.
+</p>
+    </div>
+  </li>
+    <li class="span3">
+    <div class="thumbnail">
+     <img src="img/kkorae.png" alt="">
+      <h3>kkoraeKorean Restaurant
+</h3>
+      <p><span class="emp-silver">Specialty:</span><br>
+Korean Cuisine<br>
+<span class="emp-silver">
+Location:</span><br>
+3 Finch Ave.
+</p>
+    </div>
+  </li>
+</ul>
+          <ul class="thumbnails">
+  <li class="span3">
+    <div class="thumbnail">
+     <img src="img/imagexpress.png" alt="">
+      <h3>Image Express</h3>
+      <p><span class="emp-silver">Speciality:</span><br>
+       Miscellaneous/Students<br>
+       <span class="emp-silver">
+        Location:</span><br>
+         193 College St,<br>
+          University of Toronto</p>
+    </div>
+  </li>
+    <li class="span3">
+    <div class="thumbnail">
+     <img src="img/wanak.png" alt="">
+      <h3>Vanak Restaurant</h3>
+      <p>
+<span class="emp-silver">Specialty:</span><br>
+Food Services<br>
+<span class="emp-silver">
+Location:</span><br>
+6036 Yonge St.
+</p>
+    </div>
+  </li>
+    <li class="span3">
+    <div class="thumbnail">
+     <img src="img/wraps-on-the-go.png" alt="">
+      <h3>Wraps On The Go</h3>
+      <p><span class="emp-silver">Specialty:</span><br>
+Food Services<br>
+<span class="emp-silver">
+Location:</span><br>
+106 Humber College Blvd
+</p>
+    </div>
+  </li>
+    <li class="span3">
+    <div class="thumbnail">
+     <img src="img/thesaj.png" alt="">
+      <h3>The Saj Pizza And Wraps</h3><p>
+       <span class="emp-silver">
+      Speciality:</span><br>
+       Food Services<br><span class="emp-silver">
+        Location:</span><br>
+         199 College St</p>
+    </div>
+  </li>
+</ul>
+          <ul class="thumbnails">
+  <li class="span3">
+    <div class="thumbnail">
+     <img src="img/krispys.png" alt="
+     ">      <h3>Krispy's</h3>
+      <p><span class="emp-silver">Speciality:</span><br>
+       Food Services<br>
+       <span class="emp-silver">
+        Location:</span><br>
+         2573 Victoria Park Ave</p>
+    </div>
+  </li>
+    <li class="span3">
+    <div class="thumbnail">
+     <img src="img/kimchikoreahouse.png" alt=
+     "">
+           <h3>Kimichi Korea House</h3>
+      <p><span class="emp-silver">Specialty:</span><br>
+Korean Cuisine<br>
+<span class="emp-silver">
+Location:</span><br>
+149 Dundas St.
+</p>
+    </div>
+  </li>
+    <li class="span3">
+    <div class="thumbnail">
+     <img src="img/jonshawa.png" alt="">
+           <h3>Johnny's Shawarma</h3>
+      <p><span class="emp-silver">Speciality:</span><br>
+       Food Services<br>
+       <span class="emp-silver">
+        Location:</span><br> 1904 Kennedy Rd, <br>Scarborough</p>
+    </div>
+  </li>
+    <li class="span3">
+    <div class="thumbnail">
+     <img src="img/blossom.png" alt="">
+      <h3>Blossom Dental Care</h3>
+<p>
+  <span class="emp-silver">Speciality:</span><br>
+   Dental Health <br>
+   <span class="emp-silver">
+  Location:</span><br>
+   2680 Lawrence Ave E
+</p>    </div>
+  </li>
+</ul>
+          
+
+          <ul class="thumbnails">
+  <li class="span3">
+    <div class="thumbnail">
+     <img src="img/capitals.png" alt="">
+           <h3>Capital A1 Cleaners</h3>
+      <p><span class="emp-silver">Specialty:</span><br>
+       Miscellaneous<br>
+       <span class="emp-silver">
+        Location:</span><br> 3036 Bathurst street </p>
+    </div>
+  </li>
+    <li class="span3">
+    <div class="thumbnail">
+     <img src="img/lili.png" alt=
+     "">
+           <h3>Lili’s Hair Salon</h3>
+      <p><span class="emp-silver">Specialty:</span><br>
+       Hair Design<br>
+  <span class="emp-silver">
+Location:</span><br> 4922A Yonge St.
+</p>
+    </div>
+  </li>
+    <li class="span3">
+    <div class="thumbnail">
+     <img src="img/idol.png" alt="">
+           <h3>Idol Convenience</h3>
+      <p><span class="emp-silver">Specialty:</span><br> Miscellaneous<br>
+      <span class="emp-silver">Locations:</span><br>
+       50 Cambridge Avenue<br>
+        5775 Yonge St.<br>
+        1260 Marlborough Crt.
+    </div>
+  </li>
+    <li class="span3">
+    <div class="thumbnail">
+     <img src="img/superior.png" alt="">
+      <h3>Superior Dry Cleaners</h3>
+<p>
+  <span class="emp-silver">Speciality:</span><br>
+  Miscellaneous<br>
+  <span class="emp-silver">Location: </span><br>
+  2900 Steeles Avenue<br>
+  34 Doncaster Avenue
+</p>    </div>
+  </li>
+</ul>
+
+          <ul class="thumbnails">
+  <li class="span3">
+    <div class="thumbnail">
+     <img src="img/fineindia.png" alt="">
+           <h3>Fine India Grocers</h3>
+      <p><span class="emp-silver">Specialty:</span><br>
+       Groceries<br>
+       <span class="emp-silver">Location:</span><br>
+        3040 Don Mills Rd. </p>
+    </div>
+  </li>
+    <li class="span3">
+    <div class="thumbnail">
+     <img src="img/iDream.png" alt=
+     "">
+           <h3>iDream Hair Design</h3>
+      <p><span class="emp-silver">Specialty:</span><br> Hair Design<br>
+<span class="emp-silver">Location:</span><br>
+ 5 Northtown Way
+</p>
+    </div>
+  </li>
+    <li class="span3">
+    <div class="thumbnail">
+     <img src="img/pangasinan.png" alt="">
+           <h3>Pangasinan</h3>
+      <p><span class="emp-silver">Specialty:</span><br>
+       Miscellaneous<br>
+      <span class="emp-silver">Locations:</span><br>
+       50 Cambridge Avenue<br>
+       3453 Bathurst St.
+    </div>
+  </li>
+    <li class="span3">
+    <div class="thumbnail">
+     <img src="img/Bulakena.png" alt="">
+      <h3>Bulakena</h3>
+<p>
+  <span class="emp-silver">Speciality:</span><br> 
+  Filipino Cuisine<br>
+  <span class="emp-silver">
+  Location:</span><br>  
+  3525 Bathurst St.
+</p>    </div>
+  </li>
+</ul>
+
+ <ul class="thumbnails">
+  <li class="span3">
+    <div class="thumbnail">
+     <img src="img/gelato.png" alt="">
+           <h3>Gelato Simply Italian</h3>
+      <p><span class="emp-silver">Specialty:</span><br>
+       Food Services<br>
+        <span class="emp-silver">Location:</span><br>
+         146 Cumberland St.<br>
+        2040 Yonge St.</p>
+    </div>
+  </li>
+    <li class="span3">
+    <div class="thumbnail">
+     <img src="img/hairiam.png" alt=
+     "">
+           <h3>Hair I Am</h3>
+      <p><span class="emp-silver">Specialty:</span><br>
+       Hair Design<br>
+       <span class="emp-silver">
+Location:</span><br> 5308 Yonge St.
+</p>
+    </div>
+  </li>
+    <li class="span3">
+    <div class="thumbnail">
+     <img src="img/arafat.png" alt="">
+           <h3>Arafat Halal Pizza And Kabob House</h3>
+      <p><span class="emp-silver">Specialty:</span><br>
+       Food Services<br>
+       <span class="emp-silver">
+      Locations:</span><br> 2655 Lawrence Ave E.</p>
+    </div>
+  </li>
+    <li class="span3">
+    <div class="thumbnail">
+     <img src="img/saladking.png" alt="">
+      <h3>Salad King</h3>
+<p>
+  <span class="emp-silver">Speciality: </span><br>
+  Thai Cuisine<br>
+  <span class="emp-silver">
+  Location:</span><br> 
+  340 Yonge St, Toronto
+</p>    </div>
+  </li>
+</ul>
+</div>
+<!--           <img src="img/allans-bakery" >
+          <img src="img/arafatpizza">
+          <img src="img/bh" class="img-polaroid">
+          <img src="img/campusbbt" class="img-polaroid">
+          <img src="img/coffeetime" class="img-polaroid">
+          <img src="img/eatbastard" class="img-polaroid">
+          <img src="img/gasner-dental" class="img-polaroid">
+          <img src="img/ginger" class="img-polaroid">
+          <img src="img/jonshawa" class="img-polaroid">
+          <img src="img/kimchikoreahouse" class="img-polaroid">
+          <img src="img/kkorae" class="img-polaroid">
+          <img src="img/krispys" class="img-polaroid">
+          <img src="img/noka" class="img-polaroid">
+          <img src="img/oshio" class="img-polaroid">
+          <img src="img/sakura.png" class="img-polaroid">
+          <img src="img/vietpho" class="img-polaroid">
+          <img src="img/wanak" class="img-polaroid">
+          <img src="img/whale" class="img-polaroid">
+          <img src="img/wraps-on-the-go.png" class="img-polaroid"> -->
+
+<!--           <div class="accordion" id="accordion2">
+            <div class="accordion-group">
+              <div class="span4">
+                 <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
+                  <h2>Agra Fine Indian Cuisine</h2>
+                </a>
+              </div>
+                               <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
+                  <h2>Allan's Bakery</h2>
+
+                </a>
+              </div>
+                               <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
+                  <h2>Bruce Hairlist</h2>
+                </a>
+              </div>
+                               <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFour">
+                  <h2>Campus Bubble Tea</h2>
+                </a>
+              </div>
+                               <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFive">
+                  <h2>Coffee Time</h2>
+                </a>
+              </div>
+                               <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSix">
+                  <h2>Eat Bastard</h2>
+                </a>
+              </div>
+                               <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSeven">
+                  <h2>Gasner Dental</h2>
+                </a>
+              </div>
+                               <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSeven">
+                  <h2>Gasner Dental</h2>
+                </a>
+              </div>
+                                             <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSeven">
+                  <h2>Gasner Dental</h2>
+                </a>
+              </div>
+                                             <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSeven">
+                  <h2>Gasner Dental</h2>
+                </a>
+              </div>
+                                             <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSeven">
+                  <h2>Gasner Dental</h2>
+                </a>
+              </div>
+                                             <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSeven">
+                  <h2>Gasner Dental</h2>
+                </a>
+              </div>
+                                             <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSeven">
+                  <h2>Gasner Dental</h2>
+                </a>
+              </div>
+                                             <div class="accordion-heading">
+                <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSeven">
+                  <h2>Gasner Dental</h2>
+                </a>
+              </div>
+              </div>
+             <div class="span8" id="fixed-bg">
+               <div id="collapseOne" class="accordion-body collapse in">
+                <div class="accordion-inner">
+                  <img src="img/agra" class="img-polaroid">
+          <p>Specialty: <br>
+            Indian Cuisine
+          </p>
+          <p>Locations: <br>
+            4850 Yonge St.<br>
+            365 King St.
+          </p>
+                </div>
+              </div>
+                             <div id="collapseTwo" class="accordion-body collapse">
+                <div class="accordion-inner">
+                  <img src="img/allans-bakery" class="img-polaroid">
+     Specialty:
+Food Services
+Locations:
+3056 Don Mills Rd.
+3447 Kennedy Rd. 
+
+                </div>
+              </div>
+                <div id="collapseThree" class="accordion-body collapse">
+                <div class="accordion-inner">
+                  <img src="img/bh" class="img-polaroid">
+      Specialty:
+ Hair
+ Design
+ 
+
+Location:
+ 5418
+ Yonge
+ St.
+ 
+                </div>
+              </div>
+                            <div id="collapseOne" class="accordion-body collapse">
+                <div class="accordion-inner">
+                  <img src="img/p1.png" class="img-polaroid">
+                  <p>4700 ​Keele Street<br/>
+                  Toronto, Ontario Canada</p>
+                  <p>Located in the heart of York University, and in the only central, on-campus mall (York Lanes), Campus Bubble Tea has nearly a drink monopoly over the entire student body of York University.</p> 
+                </div>
+              </div>
+                            <div id="collapseOne" class="accordion-body collapse">
+                <div class="accordion-inner">
+                  <img src="img/p1.png" class="img-polaroid">
+                  <p>4700 ​Keele Street<br/>
+                  Toronto, Ontario Canada</p>
+                  <p>Located in the heart of York University, and in the only central, on-campus mall (York Lanes), Campus Bubble Tea has nearly a drink monopoly over the entire student body of York University.</p> 
+                </div>
+              </div>
+                            <div id="collapseOne" class="accordion-body collapse">
+                <div class="accordion-inner">
+                  <img src="img/p1.png" class="img-polaroid">
+                  <p>4700 ​Keele Street<br/>
+                  Toronto, Ontario Canada</p>
+                  <p>Located in the heart of York University, and in the only central, on-campus mall (York Lanes), Campus Bubble Tea has nearly a drink monopoly over the entire student body of York University.</p> 
+                </div>
+              </div>
+                            <div id="collapseOne" class="accordion-body collapse">
+                <div class="accordion-inner">
+                  <img src="img/p1.png" class="img-polaroid">
+                  <p>4700 ​Keele Street<br/>
+                  Toronto, Ontario Canada</p>
+                  <p>Located in the heart of York University, and in the only central, on-campus mall (York Lanes), Campus Bubble Tea has nearly a drink monopoly over the entire student body of York University.</p> 
+                </div>
+              </div>
+                            <div id="collapseOne" class="accordion-body collapse">
+                <div class="accordion-inner">
+                  <img src="img/p1.png" class="img-polaroid">
+                  <p>4700 ​Keele Street<br/>
+                  Toronto, Ontario Canada</p>
+                  <p>Located in the heart of York University, and in the only central, on-campus mall (York Lanes), Campus Bubble Tea has nearly a drink monopoly over the entire student body of York University.</p> 
+                </div>
+              </div>
+            </div>--><!--span8-->
+  
+
+     
+      
+        </div> <!-- span9 -->      <hr class="sixty">
+      </div> <!-- partners -->
+
+
+
+      <div class="footer">
+        <p class="text-center">&copy; 2013 Signtrix by jTd Properties Inc.</p>
+      </div> <!-- footer -->
+
+    </div> <!-- /container -->
+
+    <!-- Le javascript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script type="text/javascript">
+    $(document).ready(function() {
+      $('.carousel').carousel({
+          interval: 2000
+      });
+    });
+    </script>
+
+    <script src="js/jquery-1.9.1.js"></script>
+    <script src="js/smoothscroll.js"></script>
+    <script src="js/bootstrap-transition.js"></script>
+    <script src="js/bootstrap-alert.js"></script>
+    <script src="js/bootstrap-scrollspy.js"></script>
+    <script src="js/bootstrap-tab.js"></script>
+    <script src="js/bootstrap-tooltip.js"></script>
+    <script src="js/bootstrap-button.js"></script>
+    <script src="js/bootstrap-collapse.js"></script>
+    <script src="js/bootstrap-carousel.js"></script>
+    <script src="js/bootstrap-typeahead.js"></script>
+
+  </body>
+</html>

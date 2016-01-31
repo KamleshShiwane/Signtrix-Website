@@ -1,0 +1,2801 @@
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 14">
+<meta name=3DOriginator content=3D"Microsoft Word 14">
+<link rel=3DFile-List href=3D"la_files/filelist.xml">
+<link rel=3DEdit-Time-Data href=3D"la_files/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Saibot</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>Steven Chen</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>871</o:TotalTime>
+  <o:Created>2013-11-15T19:57:00Z</o:Created>
+  <o:LastSaved>2013-11-15T19:57:00Z</o:LastSaved>
+  <o:Pages>2</o:Pages>
+  <o:Words>2371</o:Words>
+  <o:Characters>13521</o:Characters>
+  <o:Company>Grizli777</o:Company>
+  <o:Lines>112</o:Lines>
+  <o:Paragraphs>31</o:Paragraphs>
+  <o:CharactersWithSpaces>15861</o:CharactersWithSpaces>
+  <o:Version>14.00</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<link rel=3DdataStoreItem href=3D"la_files/item0001.xml"
+target=3D"la_files/props002.xml">
+<link rel=3DthemeData href=3D"la_files/themedata.thmx">
+<link rel=3DcolorSchemeMapping href=3D"la_files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>ZH-CN</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val=3D"Cambria Math"/>
+   <m:brkBin m:val=3D"before"/>
+   <m:brkBinSub m:val=3D"&#45;-"/>
+   <m:smallFrac/>
+   <m:dispDef/>
+   <m:lMargin m:val=3D"0"/>
+   <m:rMargin m:val=3D"0"/>
+   <m:defJc m:val=3D"centerGroup"/>
+   <m:wrapIndent m:val=3D"1440"/>
+   <m:intLim m:val=3D"subSup"/>
+   <m:naryLim m:val=3D"undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" DefUnhideWhenUsed=3D"true"
+  DefSemiHidden=3D"true" DefQFormat=3D"false" DefPriority=3D"99"
+  LatentStyleCount=3D"267">
+  <w:LsdException Locked=3D"false" Priority=3D"0" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Normal"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"heading 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 7"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 8"/>
+  <w:LsdException Locked=3D"false" Priority=3D"9" QFormat=3D"true" Name=3D"=
+heading 9"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 7"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 8"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" Name=3D"toc 9"/>
+  <w:LsdException Locked=3D"false" Priority=3D"35" QFormat=3D"true" Name=3D=
+"caption"/>
+  <w:LsdException Locked=3D"false" Priority=3D"10" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" Name=3D"Default Paragraph=
+ Font"/>
+  <w:LsdException Locked=3D"false" Priority=3D"11" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Subtitle"/>
+  <w:LsdException Locked=3D"false" Priority=3D"22" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Strong"/>
+  <w:LsdException Locked=3D"false" Priority=3D"20" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"59" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Table Grid"/>
+  <w:LsdException Locked=3D"false" UnhideWhenUsed=3D"false" Name=3D"Placeho=
+lder Text"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"No Spacing"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 1"/>
+  <w:LsdException Locked=3D"false" UnhideWhenUsed=3D"false" Name=3D"Revisio=
+n"/>
+  <w:LsdException Locked=3D"false" Priority=3D"34" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"List Paragraph"/>
+  <w:LsdException Locked=3D"false" Priority=3D"29" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"30" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Intense Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Shading Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light List Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Light Grid Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 1 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium List 2 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Dark List Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Shading Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful List Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" Name=3D"Colorful Grid Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"19" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Subtle Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"21" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Intense Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"31" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Subtle Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"32" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Intense Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"33" SemiHidden=3D"false"
+   UnhideWhenUsed=3D"false" QFormat=3D"true" Name=3D"Book Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"37" Name=3D"Bibliography"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" QFormat=3D"true" Name=3D=
+"TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:\5B8B\4F53;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 680460288 22 0 262145 0;}
+@font-face
+	{font-family:SimSun;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:\5B8B\4F53;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 680460288 22 0 262145 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-536870145 1073786111 1 0 415 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-format:other;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+@font-face
+	{font-family:"\@SimSun";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 680460288 22 0 262145 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:SimSun;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-CA;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-priority:99;
+	mso-style-link:"Footer Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:center 234.0pt right 468.0pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:SimSun;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-CA;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	mso-themecolor:hyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:purple;
+	mso-themecolor:followedhyperlink;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"Balloon Text Char";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-fareast-font-family:SimSun;
+	mso-fareast-theme-font:minor-fareast;
+	mso-bidi-font-family:Tahoma;
+	mso-fareast-language:EN-CA;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:SimSun;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-CA;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParag=
+raphCxSpFirst
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:SimSun;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-CA;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListPar=
+agraphCxSpMiddle
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:SimSun;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-CA;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagra=
+phCxSpLast
+	{mso-style-priority:34;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-type:export-only;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	mso-add-space:auto;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:SimSun;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-CA;}
+p.Default, li.Default, div.Default
+	{mso-style-name:Default;
+	mso-style-unhide:no;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	color:black;
+	mso-fareast-language:EN-US;}
+p.CM4, li.CM4, div.CM4
+	{mso-style-name:CM4;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-parent:Default;
+	mso-style-next:Default;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-fareast-language:EN-US;}
+p.CM5, li.CM5, div.CM5
+	{mso-style-name:CM5;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-parent:Default;
+	mso-style-next:Default;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-fareast-language:EN-US;}
+span.FooterChar
+	{mso-style-name:"Footer Char";
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:Footer;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-ansi-language:EN-CA;
+	mso-fareast-language:EN-US;}
+span.BalloonTextChar
+	{mso-style-name:"Balloon Text Char";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Balloon Text";
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-ascii-font-family:Tahoma;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Tahoma;
+	mso-bidi-font-family:Tahoma;
+	mso-ansi-language:EN-CA;
+	mso-fareast-language:EN-US;}
+span.null
+	{mso-style-name:null;
+	mso-style-unhide:no;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-fareast-font-family:SimSun;
+	mso-fareast-theme-font:minor-fareast;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-CA;}
+.MsoPapDefault
+	{mso-style-type:export-only;
+	margin-bottom:10.0pt;
+	line-height:115%;}
+ /* Page Definitions */
+ @page
+	{mso-footnote-separator:url("la_files/header.htm") fs;
+	mso-footnote-continuation-separator:url("la_files/header.htm") fcs;
+	mso-endnote-separator:url("la_files/header.htm") es;
+	mso-endnote-continuation-separator:url("la_files/header.htm") ecs;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:27.0pt 66.25pt 58.5pt 72.0pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-first-footer:url("la_files/header.htm") ff1;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+@page WordSection2
+	{size:612.0pt 792.0pt;
+	margin:67.5pt 36.0pt 22.5pt 40.5pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-columns:2 even 36.0pt;
+	mso-first-footer:url("la_files/header.htm") ff2;
+	mso-paper-source:0;}
+div.WordSection2
+	{page:WordSection2;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-fareast-language:EN-CA;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1027"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-CA link=3Dblue vlink=3Dpurple style=3D'tab-interval:36.0pt'>
+
+<div class=3DWordSection1>
+
+<p class=3DCM4 align=3Dcenter style=3D'margin-bottom:13.6pt;text-align:cent=
+er'><b><u><span
+style=3D'font-size:17.0pt;color:black'>SIGNTRIX PARTNER APPLICATION</span><=
+/u></b><u><span
+style=3D'font-size:17.0pt;color:black'><o:p></o:p></span></u></p>
+
+<p class=3DDefault align=3Dcenter style=3D'margin-bottom:13.15pt;text-align=
+:center;
+line-height:13.55pt'><i><span style=3D'font-size:8.0pt;mso-bidi-font-size:1=
+0.0pt'>The
+<span class=3DSpellE>Signtrix</span> Partner Application (&quot;the Applica=
+tion </span></i><span
+style=3D'font-size:8.0pt;mso-bidi-font-size:10.0pt'>&quot;) <i>is a legal
+document and forms part of the Partner Agreement between the parties</i><o:=
+p></o:p></span></p>
+
+<p class=3DDefault><span style=3D'font-size:9.0pt'>Partner Name:
+___________________________________________________________________________=
+________________<o:p></o:p></span></p>
+
+<p class=3DCM4 style=3D'margin-bottom:13.75pt;line-height:12.55pt'><span
+style=3D'font-size:9.0pt'><br>
+Partner Address:
+___________________________________________________________________________=
+______________<br>
+<br>
+Postal Code: _____________________ City: __________________________________=
+____________
+Province: ____________<o:p></o:p></span></p>
+
+<p class=3DCM4 style=3D'margin-bottom:13.75pt;line-height:12.55pt'><span
+style=3D'font-size:9.0pt'>Phone #: ____________________________E-mail:
+_____________________________________________________________<o:p></o:p></s=
+pan></p>
+
+<p class=3DCM4 style=3D'margin-bottom:13.75pt;line-height:12.55pt'><!--[if =
+gte vml 1]><v:shapetype
+ id=3D"_x0000_t202" coordsize=3D"21600,21600" o:spt=3D"202" path=3D"m,l,216=
+00r21600,l21600,xe">
+ <v:stroke joinstyle=3D"miter"/>
+ <v:path gradientshapeok=3D"t" o:connecttype=3D"rect"/>
+</v:shapetype><v:shape id=3D"_x0000_s1026" type=3D"#_x0000_t202" style=3D'p=
+osition:absolute;
+ margin-left:269.2pt;margin-top:34.65pt;width:115.45pt;height:341.95pt;
+ z-index:251660288;mso-width-percent:400;mso-height-percent:200;
+ mso-width-percent:400;mso-height-percent:200;mso-width-relative:margin;
+ mso-height-relative:margin' filled=3D"f" stroked=3D"f">
+ <v:textbox style=3D'mso-fit-shape-to-text:t'/>
+</v:shape><![endif]--><![if !vml]><span style=3D'mso-ignore:vglayout;positi=
+on:
+absolute;z-index:251660288;margin-left:719px;margin-top:433px;width:310px;
+height:911px'>
+
+<table cellpadding=3D0 cellspacing=3D0>
+ <tr>
+  <td width=3D310 height=3D911 style=3D'vertical-align:top'><![endif]><![if=
+ !mso]><span
+  style=3D'position:absolute;mso-ignore:vglayout;z-index:251660288'>
+  <table cellpadding=3D0 cellspacing=3D0 width=3D"100%">
+   <tr>
+    <td><![endif]>
+    <div v:shape=3D"_x0000_s1026" style=3D'padding:3.6pt 7.2pt 3.6pt 7.2pt'
+    class=3Dshape>
+    <p class=3DCM4 style=3D'margin-left:9.0pt;line-height:12.55pt'><b
+    style=3D'mso-bidi-font-weight:normal'><u><span style=3D'font-size:9.0pt;
+    color:black'>Installation Charges<o:p></o:p></span></u></b></p>
+    <p class=3DDefault><o:p>&nbsp;</o:p></p>
+    <p class=3DCM4 style=3D'margin-left:9.0pt;line-height:12.55pt'><span
+    class=3Dnull><span style=3D'font-size:9.0pt'>Partner is responsible for=
+ the
+    following installation charges:<o:p></o:p></span></span></p>
+    <p class=3DDefault><o:p>&nbsp;</o:p></p>
+    <p class=3DCM4 style=3D'margin-left:9.0pt;line-height:12.55pt'><span
+    class=3Dnull><i style=3D'mso-bidi-font-style:normal'><span style=3D'fon=
+t-size:
+    9.0pt'>Delivery and Equipment <span style=3D'mso-tab-count:2'>&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp; </span>$360<span
+    style=3D'mso-spacerun:yes'>&nbsp; </span><o:p></o:p></span></i></span><=
+/p>
+    <p class=3DCM4 style=3D'margin-left:9.0pt;line-height:12.55pt'><span
+    class=3Dnull><i style=3D'mso-bidi-font-style:normal'><span style=3D'fon=
+t-size:
+    9.0pt'>Basic Installation and Wiring <span style=3D'mso-tab-count:1'>&n=
+bsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp; </span>$240
+    <o:p></o:p></span></i></span></p>
+    <p class=3DCM4 style=3D'margin-left:9.0pt;line-height:12.55pt'><span
+    class=3Dnull><i style=3D'mso-bidi-font-style:normal'><span style=3D'fon=
+t-size:
+    9.0pt'>Data Upload <span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&n=
+bsp;&nbsp; </span><span
+    style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><u>$120</u><o:p></o:p></s=
+pan></i></span></p>
+    <p class=3DDefault style=3D'margin-left:9.0pt'><b style=3D'mso-bidi-fon=
+t-weight:
+    normal'><i style=3D'mso-bidi-font-style:normal'><span style=3D'font-siz=
+e:9.0pt'>Total<span
+    style=3D'mso-tab-count:1'>&nbsp;&nbsp; </span></span></i></b><i
+    style=3D'mso-bidi-font-style:normal'><span style=3D'font-size:9.0pt'><s=
+pan
+    style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+    style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><b
+    style=3D'mso-bidi-font-weight:normal'>$1,200</b><o:p></o:p></span></i><=
+/p>
+    <p class=3DDefault style=3D'margin-left:9.0pt'><o:p>&nbsp;</o:p></p>
+    <p class=3DDefault style=3D'margin-left:9.0pt'><span style=3D'font-size=
+:28.0pt;
+    mso-bidi-font-size:14.0pt'>[<span
+    style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>]</span><span
+    style=3D'font-size:22.0pt;mso-bidi-font-size:9.0pt'> </span><span
+    style=3D'font-size:9.0pt'>By initialling this box, the partner confirms=
+ that
+    they understand <span class=3DSpellE><b style=3D'mso-bidi-font-weight:n=
+ormal'>Signtrix</b></span><b
+    style=3D'mso-bidi-font-weight:normal'> will waive Installation charges<=
+/b>,
+    provided the account is in good standing on the 2<sup>nd</sup> annivers=
+ary
+    of<span style=3D'mso-spacerun:yes'>&nbsp; </span>the Installation Date.=
+ <o:p></o:p></span></p>
+    <p class=3DMsoNormal style=3D'margin-left:9.0pt'><o:p>&nbsp;</o:p></p>
+    </div>
+    <![if !mso]></td>
+   </tr>
+  </table>
+  </span><![endif]><![if !mso & !vml]>&nbsp;<![endif]><![if !vml]></td>
+ </tr>
+</table>
+
+</span><![endif]><b style=3D'mso-bidi-font-weight:normal'><u><span
+style=3D'font-size:9.0pt;color:black'>Tentative Install Date:</span></u></b=
+><span
+style=3D'font-size:9.0pt;color:black'><span style=3D'mso-spacerun:yes'>&nbs=
+p;
+</span>__________ day of________________, 20_________.</span><span
+style=3D'font-size:11.5pt;color:black'><br>
+</span><span class=3DGramE><span style=3D'font-size:7.0pt;mso-bidi-font-siz=
+e:10.5pt;
+color:black'>This lease for a standard one (1) year term, commencing on the
+tentative install date.</span></span><span style=3D'font-size:7.0pt;mso-bid=
+i-font-size:
+10.5pt;color:black'> Please refer to the Partner Agreement for additional
+renewal terms. <o:p></o:p></span></p>
+
+<p class=3DCM4 style=3D'margin-bottom:13.75pt;line-height:12.55pt'><span
+class=3DSpellE><b style=3D'mso-bidi-font-weight:normal'><u><span style=3D'f=
+ont-size:
+9.0pt;color:black'>Linkett</span></u></b></span><b style=3D'mso-bidi-font-w=
+eight:
+normal'><u><span style=3D'font-size:9.0pt;color:black'> <span class=3DGramE=
+>Package(</span>Circle
+one)<o:p></o:p></span></u></b></p>
+
+<table class=3DMsoNormalTable border=3D0 cellspacing=3D0 cellpadding=3D0 wi=
+dth=3D626
+ style=3D'width:236.0pt;margin-left:4.65pt;border-collapse:collapse;mso-yft=
+i-tbllook:
+ 1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt'>
+ <tr style=3D'mso-yfti-irow:0;mso-yfti-firstrow:yes;height:15.0pt'>
+  <td width=3D212 style=3D'width:80.0pt;background:#C5D9F1;padding:0cm 5.4p=
+t 0cm 5.4pt;
+  height:15.0pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>&nbsp;<o:p></o:p></sp=
+an></p>
+  </td>
+  <td width=3D138 style=3D'width:52.0pt;border:solid windowtext 1.0pt;mso-b=
+order-alt:
+  solid windowtext .5pt;background:#C5D9F1;padding:0cm 5.4pt 0cm 5.4pt;
+  height:15.0pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>Professional<o:p></o:=
+p></span></p>
+  </td>
+  <td width=3D138 style=3D'width:52.0pt;border:solid windowtext 1.0pt;borde=
+r-left:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:solid=
+ windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;background:#C5D9F1;padding:0cm=
+ 5.4pt 0cm 5.4pt;
+  height:15.0pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>Elite<o:p></o:p></spa=
+n></p>
+  </td>
+  <td width=3D138 style=3D'width:52.0pt;border:solid windowtext 1.0pt;borde=
+r-left:
+  none;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:solid=
+ windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;background:#C5D9F1;padding:0cm=
+ 5.4pt 0cm 5.4pt;
+  height:15.0pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>Supreme<o:p></o:p></s=
+pan></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:1;height:15.0pt'>
+  <td width=3D212 style=3D'width:80.0pt;background:#C5D9F1;padding:0cm 5.4p=
+t 0cm 5.4pt;
+  height:15.0pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>&nbsp;<o:p></o:p></sp=
+an></p>
+  </td>
+  <td width=3D138 style=3D'width:52.0pt;border:solid windowtext 1.0pt;borde=
+r-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:soli=
+d windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;background:#C5D9F1;padding:0cm=
+ 5.4pt 0cm 5.4pt;
+  height:15.0pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>$79.99<o:p></o:p></sp=
+an></p>
+  </td>
+  <td width=3D138 style=3D'width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;
+  background:#C5D9F1;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>$99.99/<span
+  class=3DSpellE>mo</span><o:p></o:p></span></p>
+  </td>
+  <td width=3D138 style=3D'width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;
+  background:#C5D9F1;padding:0cm 5.4pt 0cm 5.4pt;height:15.0pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>$129.99/<span
+  class=3DSpellE>mo</span><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:2;height:21.75pt'>
+  <td width=3D212 style=3D'width:80.0pt;border:solid windowtext 1.0pt;mso-b=
+order-alt:
+  solid windowtext .5pt;background:#C5D9F1;padding:0cm 5.4pt 0cm 5.4pt;
+  height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>Patented <span
+  class=3DSpellE>Linkett</span> System<o:p></o:p></span></p>
+  </td>
+  <td width=3D138 style=3D'width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;
+  background:#C5D9F1;padding:0cm 5.4pt 0cm 5.4pt;height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>x<o:p></o:p></span></=
+p>
+  </td>
+  <td width=3D138 style=3D'width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;
+  background:#C5D9F1;padding:0cm 5.4pt 0cm 5.4pt;height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>x<o:p></o:p></span></=
+p>
+  </td>
+  <td width=3D138 style=3D'width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;
+  background:#C5D9F1;padding:0cm 5.4pt 0cm 5.4pt;height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>x<o:p></o:p></span></=
+p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:3;height:21.75pt'>
+  <td width=3D212 style=3D'width:80.0pt;border:solid windowtext 1.0pt;borde=
+r-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:soli=
+d windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;background:#C5D9F1;padding:0cm=
+ 5.4pt 0cm 5.4pt;
+  height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>Online Analytics Plat=
+form
+  <o:p></o:p></span></p>
+  </td>
+  <td width=3D138 style=3D'width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;
+  background:#C5D9F1;padding:0cm 5.4pt 0cm 5.4pt;height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>x<o:p></o:p></span></=
+p>
+  </td>
+  <td width=3D138 style=3D'width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;
+  background:#C5D9F1;padding:0cm 5.4pt 0cm 5.4pt;height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>x<o:p></o:p></span></=
+p>
+  </td>
+  <td width=3D138 style=3D'width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;
+  background:#C5D9F1;padding:0cm 5.4pt 0cm 5.4pt;height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>x<o:p></o:p></span></=
+p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:4;height:21.75pt'>
+  <td width=3D212 style=3D'width:80.0pt;border:solid windowtext 1.0pt;borde=
+r-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:soli=
+d windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;background:#C5D9F1;padding:0cm=
+ 5.4pt 0cm 5.4pt;
+  height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>Phone &amp; Email Sup=
+port<o:p></o:p></span></p>
+  </td>
+  <td width=3D138 style=3D'width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;
+  background:#C5D9F1;padding:0cm 5.4pt 0cm 5.4pt;height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>x<o:p></o:p></span></=
+p>
+  </td>
+  <td width=3D138 style=3D'width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;
+  background:#C5D9F1;padding:0cm 5.4pt 0cm 5.4pt;height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>x<o:p></o:p></span></=
+p>
+  </td>
+  <td width=3D138 style=3D'width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;
+  background:#C5D9F1;padding:0cm 5.4pt 0cm 5.4pt;height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>x<o:p></o:p></span></=
+p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:5;height:21.75pt'>
+  <td width=3D212 style=3D'width:80.0pt;border:solid windowtext 1.0pt;borde=
+r-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:soli=
+d windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;background:#C5D9F1;padding:0cm=
+ 5.4pt 0cm 5.4pt;
+  height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>Content Creation<o:p>=
+</o:p></span></p>
+  </td>
+  <td width=3D138 style=3D'width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;
+  background:#C5D9F1;padding:0cm 5.4pt 0cm 5.4pt;height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>x<o:p></o:p></span></=
+p>
+  </td>
+  <td width=3D138 style=3D'width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;
+  background:#C5D9F1;padding:0cm 5.4pt 0cm 5.4pt;height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>x<o:p></o:p></span></=
+p>
+  </td>
+  <td width=3D138 style=3D'width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;
+  background:#C5D9F1;padding:0cm 5.4pt 0cm 5.4pt;height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>x<o:p></o:p></span></=
+p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:6;height:21.75pt'>
+  <td width=3D212 style=3D'width:80.0pt;border:solid windowtext 1.0pt;borde=
+r-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:soli=
+d windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;background:#C5D9F1;padding:0cm=
+ 5.4pt 0cm 5.4pt;
+  height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>Content Scheduling and
+  Management<o:p></o:p></span></p>
+  </td>
+  <td width=3D138 style=3D'width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;
+  background:#C5D9F1;padding:0cm 5.4pt 0cm 5.4pt;height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>x<o:p></o:p></span></=
+p>
+  </td>
+  <td width=3D138 style=3D'width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;
+  background:#C5D9F1;padding:0cm 5.4pt 0cm 5.4pt;height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>x<o:p></o:p></span></=
+p>
+  </td>
+  <td width=3D138 style=3D'width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;
+  background:#C5D9F1;padding:0cm 5.4pt 0cm 5.4pt;height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>x<o:p></o:p></span></=
+p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:7;height:21.75pt'>
+  <td width=3D212 style=3D'width:80.0pt;border:solid windowtext 1.0pt;borde=
+r-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:soli=
+d windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;background:#C5D9F1;padding:0cm=
+ 5.4pt 0cm 5.4pt;
+  height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>Installation<o:p></o:=
+p></span></p>
+  </td>
+  <td width=3D138 style=3D'width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;
+  background:#C5D9F1;padding:0cm 5.4pt 0cm 5.4pt;height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>x<o:p></o:p></span></=
+p>
+  </td>
+  <td width=3D138 style=3D'width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;
+  background:#C5D9F1;padding:0cm 5.4pt 0cm 5.4pt;height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>x<o:p></o:p></span></=
+p>
+  </td>
+  <td width=3D138 style=3D'width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;
+  background:#C5D9F1;padding:0cm 5.4pt 0cm 5.4pt;height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>x<o:p></o:p></span></=
+p>
+  </td>
+ </tr>
+ <tr style=3D'mso-yfti-irow:8;mso-yfti-lastrow:yes;height:21.75pt'>
+  <td width=3D212 style=3D'width:80.0pt;border:solid windowtext 1.0pt;borde=
+r-top:
+  none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:soli=
+d windowtext .5pt;
+  mso-border-right-alt:solid windowtext .5pt;background:#C5D9F1;padding:0cm=
+ 5.4pt 0cm 5.4pt;
+  height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>Commercial Grade NEC =
+1080
+  Display<span style=3D'mso-spacerun:yes'>&nbsp; </span>Size<o:p></o:p></sp=
+an></p>
+  </td>
+  <td width=3D138 style=3D'width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;
+  background:#C5D9F1;padding:0cm 5.4pt 0cm 5.4pt;height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>&nbsp;<o:p></o:p></sp=
+an></p>
+  </td>
+  <td width=3D138 style=3D'width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;
+  background:#C5D9F1;padding:0cm 5.4pt 0cm 5.4pt;height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>32&quot;<o:p></o:p></=
+span></p>
+  </td>
+  <td width=3D138 style=3D'width:52.0pt;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid wi=
+ndowtext .5pt;
+  background:#C5D9F1;padding:0cm 5.4pt 0cm 5.4pt;height:21.75pt'>
+  <p class=3DMsoNormal align=3Dcenter style=3D'margin-bottom:0cm;margin-bot=
+tom:.0001pt;
+  text-align:center;line-height:normal'><span lang=3DEN-US style=3D'font-si=
+ze:8.0pt;
+  mso-ascii-font-family:Calibri;mso-fareast-font-family:"Times New Roman";
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:Calibri;color:black;
+  mso-ansi-language:EN-US;mso-fareast-language:ZH-CN'>42&quot;<o:p></o:p></=
+span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=3DCM4 style=3D'line-height:12.55pt'><b style=3D'mso-bidi-font-weig=
+ht:normal'><u><span
+style=3D'font-size:11.5pt;color:black'><o:p><span style=3D'text-decoration:=
+none'>&nbsp;</span></o:p></span></u></b></p>
+
+<p class=3DCM4 style=3D'margin-bottom:13.75pt;line-height:12.55pt'><b
+style=3D'mso-bidi-font-weight:normal'><u><span style=3D'font-size:9.0pt;col=
+or:black'>Monthly
+Maintenance Payment to the Partner </span></u></b><span style=3D'font-size:=
+9.0pt;
+color:black'><br>
+<span class=3DSpellE>Signtrix</span> agrees to pay to the Partner a monthly
+maintenance payment of $ _____ per third-party advertisement displayed on t=
+he <span
+class=3DSpellE>LinkettPackage<sup>TM</sup></span>. The maintenance payment =
+is to
+be used by the Partner to clean the <span class=3DSpellE>LinkettPackage<sup=
+>TM</sup></span>.
+Credit Card #:________________________________ <span class=3DSpellE>exp</sp=
+an><span
+class=3DGramE>:_</span>________CSC:____ Type:__________<o:p></o:p></span></=
+p>
+
+<p class=3DCM4 style=3D'line-height:12.55pt'><b style=3D'mso-bidi-font-weig=
+ht:normal'><u><span
+style=3D'font-size:9.0pt;color:black'>Partner Acknowledgement<o:p></o:p></s=
+pan></u></b></p>
+
+<p class=3DCM4 style=3D'line-height:12.55pt'><span class=3Dnull><span
+style=3D'font-size:9.0pt'>Partner is applying for the <span class=3DSpellE>=
+Linkett</span>
+package plan specified above. The Partner agrees to rent the <span
+class=3DSpellE>Linkett</span> package at a total monthly rate of $________ =
+plus
+any applicable taxes. A onetime charge of $______ plus any applicable taxes
+will also apply.<o:p></o:p></span></span></p>
+
+<p class=3DCM4 style=3D'line-height:12.55pt'><span style=3D'font-size:6.0pt;
+color:black'>The Partner gives <span class=3DSpellE>Signtrix</span> permiss=
+ion to
+display the advertisements of third parties on the <span class=3DSpellE>Lin=
+kett</span>
+Package, as well as its own advertising (including the <span class=3DSpellE=
+>Signtrix</span>
+logo) subject to the terms and conditions of the Partner Agreement. <o:p></=
+o:p></span></p>
+
+<p class=3DDefault style=3D'line-height:11.4pt'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:6.0pt'>The Partner acknowledges that it ha=
+s <span
+class=3DGramE>received,</span> read, understood, and agreed to the <span
+class=3DSpellE>Signtrix</span> Partner Application set out in this applicat=
+ion
+(&quot;The Agreement&quot;) and that this Application forms part of the Par=
+tner
+Agreement between JTD Properties operating as <span class=3DSpellE>Signtrix=
+</span>
+and the Partner.</span></b><b style=3D'mso-bidi-font-weight:normal'><span
+style=3D'font-size:10.0pt'><br style=3D'mso-special-character:line-break'>
+<![if !supportLineBreakNewLine]><br style=3D'mso-special-character:line-bre=
+ak'>
+<![endif]><o:p></o:p></span></b></p>
+
+<p class=3DDefault style=3D'line-height:11.4pt'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:10.0pt'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=3DDefault style=3D'line-height:11.4pt'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:10.0pt'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=3DDefault style=3D'line-height:11.4pt'><b style=3D'mso-bidi-font-w=
+eight:
+normal'><span style=3D'font-size:10.0pt'>________________________<span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;
+</span>_______________________________<span
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style=3D'mso-spacerun:yes'>&nbsp;</span>_____________________<=
+br>
+</span></b><span style=3D'font-size:9.0pt'>Partner <span style=3D'mso-tab-c=
+ount:
+4'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp; </span>Signature
+<span class=3DGramE>Per</span> (Print Name) <span style=3D'mso-tab-count:1'=
+>&nbsp;&nbsp; </span><span
+style=3D'mso-tab-count:2'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Date<b
+style=3D'mso-bidi-font-weight:normal'><br>
+</b></span><span style=3D'font-size:8.0pt;mso-bidi-font-size:7.0pt'><span
+style=3D'mso-tab-count:5'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </s=
+pan>(I
+</span><span style=3D'font-size:9.0pt;mso-bidi-font-size:8.0pt'>have author=
+ity to
+bind the Corporation)</span><span style=3D'font-size:8.0pt'><br>
+<span style=3D'mso-tab-count:5'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p; </span>(&quot;The
+Partner&quot;) <br>
+</span><b style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:6.=
+0pt'>This
+Application is subject to the approval</span></b><span style=3D'font-size:6=
+.0pt'>
+of <span class=3DSpellE><span style=3D'mso-bidi-font-style:italic'>JTD</spa=
+n>Properties</span>
+in its sole discretion and is <b style=3D'mso-bidi-font-weight:normal'>not
+binding </b>until such approval is obtained. The Partner consents to the
+collection, recording, use and disclosure of the Partner's information to
+review and process this Application and to provide the services related to =
+the
+Application. The Partner understands that it may contact JTD Properties at =
+any
+time to stop the use of its information. <b style=3D'mso-bidi-font-weight:n=
+ormal'><o:p></o:p></b></span></p>
+
+<p class=3DDefault style=3D'margin-left:22.5pt;text-indent:-22.5pt;line-hei=
+ght:
+150%'><b style=3D'mso-bidi-font-weight:normal'><u><span style=3D'font-size:=
+14.0pt;
+mso-bidi-font-size:10.0pt;line-height:150%'>PARTNER AGREEMENT (&quot;THE
+AGREEMENT&quot;)<o:p></o:p></span></u></b></p>
+
+</div>
+
+<span style=3D'font-size:8.0pt;line-height:115%;font-family:"Times New Roma=
+n","serif";
+mso-fareast-font-family:SimSun;mso-fareast-theme-font:minor-fareast;mso-ans=
+i-language:
+EN-CA;mso-fareast-language:EN-CA;mso-bidi-language:AR-SA'><br clear=3Dall
+style=3D'page-break-before:auto;mso-break-type:section-break'>
+</span>
+
+<div class=3DWordSection2>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>WHEREAS
+the Company, &quot;our&quot;, &quot;us&quot;, &quot;the Company&quot; or
+&quot;we&quot;<span style=3D'mso-spacerun:yes'>&nbsp; </span>is<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>JTD Properties Inc., a corporation
+carrying on business in the province of Ontario;<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>WHEREAS
+the Company operates as <b style=3D'mso-bidi-font-weight:normal'>&#8220;<sp=
+an
+class=3DSpellE>SignTrix</span>&#8221;</b> in relation to its activities,
+businesses, and ventures in the areas of advertising, sales, marketing, and
+promotions;<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>WHEREAS
+the Partner (also known as the &#8220;Host Location&#8221;) has agreed to e=
+nter
+into this Agreement voluntarily;<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>WHEREAS
+the Partner has reviewed and completed the accompanying <span class=3DSpell=
+E><b
+style=3D'mso-bidi-font-weight:normal'>SignTrix</b></span><b style=3D'mso-bi=
+di-font-weight:
+normal'> Partner Application</b>;<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>In
+exchange for good and valuable consideration, the sufficiency of which is
+hereby acknowledged, THE PARTIES agree as follows:<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><u><span style=3D'font-size:6.0pt;font-family:"Times New Roman","se=
+rif"'><o:p><span
+ style=3D'text-decoration:none'>&nbsp;</span></o:p></span></u></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><u><span style=3D'font-size:6.0pt;font-family:"Times New Roman","se=
+rif"'>1.
+Binding Contract<o:p></o:p></span></u></p>
+
+<p class=3DMsoListParagraphCxSpFirst style=3D'margin:0cm;margin-bottom:.000=
+1pt;
+mso-add-space:auto;line-height:normal'><span class=3DGramE><span
+style=3D'font-size:6.0pt;font-family:"Times New Roman","serif"'>1.1<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>The</span></span><span style=3D'fo=
+nt-size:
+6.0pt;font-family:"Times New Roman","serif"'> parties agree and acknowledge=
+ that
+the Agreement is a legally binding contract under the law of Ontario.<o:p><=
+/o:p></span></p>
+
+<p class=3DMsoListParagraphCxSpLast style=3D'margin:0cm;margin-bottom:.0001=
+pt;
+mso-add-space:auto;line-height:normal'><span style=3D'font-size:6.0pt;font-=
+family:
+"Times New Roman","serif"'>1.2 The <span class=3DSpellE><b style=3D'mso-bid=
+i-font-weight:
+normal'>SignTrix</b></span><b style=3D'mso-bidi-font-weight:normal'> Partner
+Application</b> forms part of the Agreement.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><u><span style=3D'font-size:6.0pt;font-family:"Times New Roman","se=
+rif"'>2.
+Term of Agreement <o:p></o:p></span></u></p>
+
+<p class=3DMsoListParagraph style=3D'margin:0cm;margin-bottom:.0001pt;mso-a=
+dd-space:
+auto;line-height:normal'><span style=3D'font-size:6.0pt;font-family:"Times =
+New Roman","serif"'>2.1
+The term of the Agreement is for a standard one (1) year term, as specified=
+ in
+the <span class=3DSpellE>SignTrix</span> Partner Application, commencing on=
+ the
+date specified in the <span class=3DSpellE>SignTrix</span> Partner Applicat=
+ion.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>2.2
+The Agreement automatically renews at the end of the one-year term, for ano=
+ther
+one-year term, unless notice is given, in writing and at least three (3) mo=
+nths
+in advance of the automatic renewal date, by either party that the party do=
+es
+not want the Agreement to renew.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span class=3DGramE><span style=3D'font-size:6.0pt;font-family:"Tim=
+es New Roman","serif"'>2.3
+<span style=3D'mso-spacerun:yes'>&nbsp;</span>The</span></span><span
+style=3D'font-size:6.0pt;font-family:"Times New Roman","serif"'> Agreement =
+can be
+renewed for a term different from a one-year term, with the consent of both
+parties.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>2.4
+This Agreement is conditional upon the Company's acceptance of it, in its s=
+ole
+and unfettered discretion.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><u><span style=3D'font-size:6.0pt;font-family:"Times New Roman","se=
+rif"'>3.
+Lease<o:p></o:p></span></u></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>3.1
+Definitions:<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><b style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:6=
+.0pt;
+font-family:"Times New Roman","serif"'>&#8220;Host Location&#8221;</span></=
+b><span
+style=3D'font-size:6.0pt;font-family:"Times New Roman","serif"'> is defined=
+ as a
+location in which a <span class=3DSpellE>Linkett</span> Package has been
+installed by the Company for the purposes of advertising, marketing, and
+promotions. The Partner serves as the host location for the <span class=3DS=
+pellE>Linkett</span>
+Package.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><b style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:6=
+.0pt;
+font-family:"Times New Roman","serif"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span>&#8220;<span class=3DSpellE>Linkett=
+</span>
+Package&#8221; </span></b><span style=3D'font-size:6.0pt;font-family:"Times=
+ New Roman","serif"'>is
+defined as a combination of a Liquid Crystal Display (LCD) television and <=
+span
+class=3DSpellE>Linkett<sup>TM</sup></span><sup> </sup>Media Player<sup> </s=
+up><span
+style=3D'display:none;mso-hide:all'>M d Linkettn of an 7 days of renewal</s=
+pan>that
+can also be used as a digital signage hardware, that is used to display and=
+ run
+messages, signs, and advertising on the screen in the form of a billboard.<=
+o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><b style=3D'mso-bidi-font-weight:normal'><span style=3D'font-size:6=
+.0pt;
+font-family:"Times New Roman","serif"'>&quot;<span class=3DSpellE>Linkett<s=
+up>TM</sup></span><sup>
+</sup>Media Player&quot; </span></b><span style=3D'font-size:6.0pt;font-fam=
+ily:
+"Times New Roman","serif"'>is defined as a media player and is manufactured=
+ by
+Weston Expressions Inc.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>3.2
+The Company <b style=3D'mso-bidi-font-weight:normal'><u>agrees to lease</u>=
+</b>
+to the Partner one (1<span class=3DGramE>) <span
+style=3D'mso-spacerun:yes'>&nbsp;</span>&quot;</span><span class=3DSpellE>L=
+inkett</span>
+Package&#8221;, to be installed on the Partner&#8217;s premises, for the te=
+rm
+of the Agreement as indicated in the <span class=3DSpellE>SignTrix</span> P=
+artner
+Application, subject to the terms of the Agreement. The Partner agrees to p=
+ay
+to the Company the monthly amount specified in the <span class=3DSpellE>Sig=
+ntrix</span>
+Partner Application. If a credit card is provided, The Partner authorizes t=
+he
+total sum (over an annum) of monthly payments owing over the term to be cha=
+rged
+to the credit card on the day of the installation. The Partner also authori=
+zes
+all fines or dues owing to be charged to the credit card on the 1st of each
+month for the duration of the term.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'><span
+style=3D'mso-spacerun:yes'>&nbsp;</span>3.3 At all times, the <span class=
+=3DSpellE>Linkett</span>
+Package is property of the Company, and the Company is the owner of the <sp=
+an
+class=3DSpellE>Linkett</span> Package.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>3.4
+The Partner agrees to serve as the host location of the <span class=3DSpell=
+E>Linkett</span>
+Package for the duration of the term of the Agreement.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>3.5
+For the duration of the Agreement, the Partner cannot remove or uninstall t=
+he <span
+class=3DSpellE>Linkett</span> Package without the express permission and co=
+nsent
+of the Company. During the term of the Agreement, the Partner further agrees
+that it will not alter, move, or modify the <span class=3DSpellE>Linkett</s=
+pan>
+Package in any way, without the prior consent of the Company.<o:p></o:p></s=
+pan></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span class=3DGramE><span style=3D'font-size:6.0pt;font-family:"Tim=
+es New Roman","serif"'>3.6
+<span style=3D'mso-spacerun:yes'>&nbsp;</span>If</span></span><span
+style=3D'font-size:6.0pt;font-family:"Times New Roman","serif"'> the Partner
+removes or uninstalls the <span class=3DSpellE>Linkett</span> Package befor=
+e the
+end of term, the Partner shall be subject to charges and fees from the Comp=
+any.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>3.7
+The Partner acknowledges that the Company shall install mounting brackets a=
+nd
+extension cords to run electricity to the units, in addition to the <span
+class=3DSpellE>Linkett</span> Package itself.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>3.8
+The Company shall be responsible for the installation, repair, and removal =
+of
+the <span class=3DSpellE>Linkett</span> Package. <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>3.9
+The Partner agrees that, during the term of the Agreement, if the <span
+class=3DSpellE>Linkett</span> Package suffers damage a) outside of normal w=
+ear
+and tear, or b) circumstances outside of the Partner's control, the Partner=
+ may
+incur additional liability. <span style=3D'mso-tab-count:1'>&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><o:p></o:p></span><=
+/p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>3.10
+The <span class=3DSpellE>Linkett</span> Package will be installed in an are=
+a that
+is agreed upon by the parties.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>3.11
+At the end of term, the Company is not responsible for restoring the host
+location back to its original condition. The Company is not responsible for=
+ any
+holes left by screws and brackets as a result of the removal of the <span
+class=3DSpellE>Linkett</span> Package.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>3.12
+The Partner agrees that by the signing of this Agreement, they have the opt=
+ion
+either: a) to pay the installation and other charges listed on page 1 of th=
+is
+Agreement (plus applicable taxes) on the day of the installation. b) to def=
+er
+payment of the installation and other charges listed on page 1 of this
+Agreement (plus applicable taxes) as an unconditional interest - free advan=
+ce,
+until the earlier of: (<span class=3DSpellE>i</span>) the second (2nd)
+anniversary of the Installation Date, at which time the installation charges
+will be waived by <span class=3DSpellE>Signtrix</span> entirely if the acco=
+unt is
+in good standing at such time; provided that (ii) if this Agreement is
+terminated before the second (2nd) anniversary of the Tentative Install Dat=
+e,
+then the entire amount of the installation and other charges (plus applicab=
+le
+taxes) will be billed to the Partner without interest on the date of
+termination. <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span class=3DGramE><span style=3D'font-size:6.0pt;font-family:"Tim=
+es New Roman","serif"'>3.13
+<span style=3D'mso-spacerun:yes'>&nbsp;</span>The</span></span><span
+style=3D'font-size:6.0pt;font-family:"Times New Roman","serif"'> Company ha=
+s the
+right to repossess, move, and/or uninstall the <span class=3DSpellE>Linkett=
+</span>
+Package at the end of term.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><u><span style=3D'font-size:6.0pt;font-family:"Times New Roman","se=
+rif"'>4.
+Advertisements<o:p></o:p></span></u></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>4.1
+Definitions:<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>&#8220;<b
+style=3D'mso-bidi-font-weight:normal'>Advertisement&#8221; </b>is defined a=
+s one
+or more pieces of advertising that the Partner, the Company, or a third-par=
+ty
+wishes to have displayed on <span class=3DGramE>an</span> <span class=3DSpe=
+llE>Linkett</span>
+Package.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>4.2
+For the duration of the term of the Agreement, the Partner may display its =
+own
+advertising and advertisements on the <span class=3DSpellE>Linkett</span> P=
+ackage,
+subject to the terms and conditions of the Agreement, and subject to agreem=
+ent
+with the Company on the size and location of the Partner&#8217;s advertisem=
+ents
+on the <span class=3DSpellE>Linkett</span> Package.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>4.3
+The Company will assist the Partner in making changes to advertisements
+displayed on the <span class=3DSpellE>Linkett</span> Package, and will atte=
+mpt to
+cater to all other reasonable demands with respect to the changing and disp=
+lay
+of advertisements. If the Partner requests a change in advertisement, it sh=
+ould
+notify the Company at least one week in advance. Generally, changes to
+advertisements are made every Saturday or Sunday between 9:00AM to 8:00PM. =
+<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>4.4
+The Partner further agrees that the Company will display the advertising of
+third-parties on the <span class=3DSpellE>Linkett</span> Package, subject to
+contractual terms between the Company and the respective third-party.<o:p><=
+/o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>4.5
+The Partner acknowledges that in respect to how much displace space or time=
+ a
+third party advertisement will occupy on the <span class=3DSpellE>Linkett</=
+span>
+Package is up to the Company's sole discretion.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>4.6
+The Partner consents to the advertisement of third-parties, and does not ob=
+ject
+to the contents and subject matter of the third-party advertisements.<o:p><=
+/o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>4.7
+The parties agree that the Company will display its own advertising (includ=
+ing
+the <span class=3DSpellE>SignTrix</span> and/or <span class=3DSpellE>Linket=
+t</span>
+logo) on the <span class=3DSpellE>Linkett</span> Package.<o:p></o:p></span>=
+</p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>4.8
+During business hours, or as otherwise agreed upon, the Partner allows the
+Company and its representatives to enter the Partner&#8217;s premises to ma=
+ke
+changes to advertisements on the <span class=3DSpellE>Linkett</span> Packag=
+e, or
+to inspect the <span class=3DSpellE>Linkett</span> Package.<o:p></o:p></spa=
+n></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>4.9
+The Partner shall only use the <span class=3DSpellE>Linkett</span> Package =
+for
+the purposes set out in the Agreement, and is forbidden from using the <span
+class=3DSpellE>Linkett</span> Package for any other or improper purpose. Th=
+e use
+of the <span class=3DSpellE>Linkett</span> Package for purposes other than
+advertisement is strictly prohibited.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><u><span style=3D'font-size:6.0pt;font-family:"Times New Roman","se=
+rif"'>5.
+Maintenance Payment to Partner<o:p></o:p></span></u></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>5.1
+The Company agrees to pay to the Partner a monthly maintenance payment as
+specified in the <span class=3DSpellE>SignTrix</span> Partner Application. =
+The
+monthly maintenance payment will be determined by the number of third-party
+advertisements displayed on the <span class=3DSpellE>Linkett</span> Package=
+. <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>5.2
+The Company agrees to pay to the Partner the monthly maintenance payment in=
+ a
+timely manner, and in a form agreeable by the parties.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>5.3
+The Partner is required to use the monthly maintenance payment to clean and
+maintain the <span class=3DSpellE>Linkett</span> Package on the premises.<o=
+:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><u><span style=3D'font-size:6.0pt;font-family:"Times New Roman","se=
+rif"'>6.
+Close of Business or Relocation<o:p></o:p></span></u></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>6.1
+If the Partner intends to close its business, or relocate to another locati=
+on,
+either temporarily or permanently, it must give the Company at least three =
+(3) <span
+class=3DSpellE>month&#8217;s notice</span>, or be subject to fines by the
+Company.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>6.2
+If the Partner relocates to another location during the term of the Agreeme=
+nt,
+the Company has the right under the Agreement to reinstall the <span
+class=3DSpellE>Linkett</span> Package at the new location until the end of =
+the
+term. If the new location is not a viable location for the display of
+advertisements by the Company, and the Company cannot reasonably reinstall =
+the <span
+class=3DSpellE>Linkett</span> Package at the new location, the Partner may =
+be
+subject to additional fines and charges by the Company.<o:p></o:p></span></=
+p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>6.3
+If the Partner&#8217;s business closes permanently or temporarily, or if the
+Partner files for bankruptcy before the end of the term, the Partner shall =
+be
+subject to termination charges, as determined by the Company, of upwards of
+$800.00. In such an event, the Company has the right to immediately reposse=
+ss
+the <span class=3DSpellE>Linkett</span> Package.<span style=3D'mso-tab-coun=
+t:1'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><o:p></o:p></span></=
+p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><u><span style=3D'font-size:6.0pt;font-family:"Times New Roman","se=
+rif"'>7.
+Termination of the Agreement<o:p></o:p></span></u></p>
+
+<p class=3DMsoListParagraph style=3D'margin:0cm;margin-bottom:.0001pt;mso-a=
+dd-space:
+auto;line-height:normal'><span style=3D'font-size:6.0pt;font-family:"Times =
+New Roman","serif"'>7.1
+This Agreement can only be terminated with the written consent of both part=
+ies,
+subject to the terms below.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>7.2
+If one party wishes to terminate the <span class=3DGramE>Agreement, that</s=
+pan>
+party must give the other party at least three (3) <span class=3DSpellE>mon=
+th&#8217;s
+notice</span>.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>7.3
+The Company may terminate the Agreement unilaterally if it discovers that t=
+he
+Partner has failed to perform any of the terms, conditions, and covenants of
+the Agreement or if the Partner ceases to operate, declares bankruptcy, or
+relocates.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>7.4
+The Company may terminate the Agreement if the Partner uses the <span
+class=3DSpellE>Linkett</span> Package unreasonably, or in a manner that is
+contrary to the intention of the Agreement. <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>7.4
+Upon termination of the Agreement, the Company has the right to immediately
+repossess the <span class=3DSpellE>Linkett</span> Package.<o:p></o:p></span=
+></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><u><span style=3D'font-size:6.0pt;font-family:"Times New Roman","se=
+rif"'>8.
+Non-competition<o:p></o:p></span></u></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>8.1
+The Partner agrees not to compete with the Company by soliciting third-part=
+ies
+to advertise on the <span class=3DSpellE>Linkett</span> Package. <o:p></o:p=
+></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>8.2
+The Partner agrees not to compete with the Company by allowing another medi=
+a or
+advertising company to advertise in the Partner's premises without consent =
+from
+the Company in writing.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><u><span style=3D'font-size:6.0pt;font-family:"Times New Roman","se=
+rif"'>9.
+Arbitration<o:p></o:p></span></u></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>9.1
+The parties agree that disputes arising from this Agreement shall be dealt =
+with
+by binding arbitration by an arbitrator in the Province of Ontario, prior to
+the commencement of any civil proceeding, including any action or applicati=
+on. <o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><u><span style=3D'font-size:6.0pt;font-family:"Times New Roman","se=
+rif"'>10.
+Binding <span class=3DGramE>Upon</span> Successor Corporation<o:p></o:p></s=
+pan></u></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>10.1
+The Agreement shall be binding upon any successor (whether direct or indire=
+ct
+and whether by purchase, lease, merger, consolidation, liquidation or
+otherwise) to all or substantially all of the Partner&#8217;s business and/=
+or
+assets. Any such successor will within a reasonable period of becoming the
+successor assume in writing and be bound by all of the Partner&#8217;s
+obligations under the Agreement. For all purposes under the Agreement, the =
+term
+&#8220;Partner&#8221; shall include any successor to the Partner&#8217;s
+business or <span class=3DGramE>assets that becomes</span> bound by the
+Agreement.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><u><span style=3D'font-size:6.0pt;font-family:"Times New Roman","se=
+rif"'>11.
+Governing Law and Jurisdiction<o:p></o:p></span></u></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>11.1
+The Agreement shall be governed by the laws of the Province of Ontario.<o:p=
+></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><u><span style=3D'font-size:6.0pt;font-family:"Times New Roman","se=
+rif"'>12.
+Severability<o:p></o:p></span></u></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>12.1
+The parties hereto agree that in the event any article or part thereof of t=
+he
+Agreement is held to be unenforceable or invalid then said article or part
+shall be struck and all remaining provisions shall remain in full force and
+effect.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><u><span style=3D'font-size:6.0pt;font-family:"Times New Roman","se=
+rif"'>13.
+Entire Agreement<o:p></o:p></span></u></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>13.1
+The Agreement contains the entire agreement between the parties, supersedin=
+g in
+all respects any and all prior oral or written agreements or understandings
+pertaining to the provision of legal services and shall be amended or modif=
+ied
+only by written instrument signed by both of the parties hereto.<o:p></o:p>=
+</span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><u><span style=3D'font-size:6.0pt;font-family:"Times New Roman","se=
+rif"'>14.
+Waiver<o:p></o:p></span></u></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>14.1
+Any decision not to enforce a right or entitlement under the Agreement shall
+only be binding if it is made in writing. Any such decision by a party not =
+to
+enforce a right shall not require or imply any duty on that party to make a=
+ny
+further or subsequent waiver of that right or any other right contained or
+referred to in this Agreement.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><u><span style=3D'font-size:6.0pt;font-family:"Times New Roman","se=
+rif"'>15.<span
+style=3D'mso-spacerun:yes'>&nbsp; </span>Indemnification<o:p></o:p></span><=
+/u></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'>15.1
+The Partner shall indemnify the Company against, and hold the Company harml=
+ess
+from any and all claims, actions, suits, proceedings, costs, expenses, dama=
+ges
+and liabilities including the costs arising out of, connected with or resul=
+ting
+from the operation of the <span class=3DSpellE>Linkett</span> Package inclu=
+ding
+without limitation the installation, possession, use, operation or return of
+the <span class=3DSpellE>Linkett</span> Package or otherwise on account of =
+any
+personal injury or death or damage to property occasioned by the operation =
+of
+the <span class=3DSpellE>Linkett</span> Package during the term hereby gran=
+ted.<o:p></o:p></span></p>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'font-size:6.0pt;font-family:"Times New Roman","serif=
+"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=3DCM5><span style=3D'font-size:6.0pt;mso-fareast-language:ZH-TW;
+mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype id=3D"_x0000_t75" coordsi=
+ze=3D"21600,21600"
+ o:spt=3D"75" o:preferrelative=3D"t" path=3D"m@4@5l@4@11@9@11@9@5xe" filled=
+=3D"f"
+ stroked=3D"f">
+ <v:stroke joinstyle=3D"miter"/>
+ <v:formulas>
+  <v:f eqn=3D"if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn=3D"sum @0 1 0"/>
+  <v:f eqn=3D"sum 0 0 @1"/>
+  <v:f eqn=3D"prod @2 1 2"/>
+  <v:f eqn=3D"prod @3 21600 pixelWidth"/>
+  <v:f eqn=3D"prod @3 21600 pixelHeight"/>
+  <v:f eqn=3D"sum @0 0 1"/>
+  <v:f eqn=3D"prod @6 1 2"/>
+  <v:f eqn=3D"prod @7 21600 pixelWidth"/>
+  <v:f eqn=3D"sum @8 21600 0"/>
+  <v:f eqn=3D"prod @7 21600 pixelHeight"/>
+  <v:f eqn=3D"sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok=3D"f" gradientshapeok=3D"t" o:connecttype=3D"rect"/>
+ <o:lock v:ext=3D"edit" aspectratio=3D"t"/>
+</v:shapetype><v:shape id=3D"Picture_x0020_1" o:spid=3D"_x0000_i1025" type=
+=3D"#_x0000_t75"
+ style=3D'width:85.55pt;height:23.75pt;visibility:visible;mso-wrap-style:sq=
+uare'>
+ <v:imagedata src=3D"la_files/image001.png" o:title=3D"Signature"/>
+</v:shape><![endif]--><![if !vml]><img width=3D227 height=3D63
+src=3D"la_files/image002.gif" v:shapes=3D"Picture_x0020_1"><![endif]></span=
+><span
+style=3D'font-size:6.0pt'><o:p></o:p></span></p>
+
+<p class=3DDefault><span style=3D'font-size:7.0pt;mso-bidi-font-size:12.0pt=
+'>Tobias
+<span class=3DSpellE><span class=3DGramE>Gu</span></span><o:p></o:p></span>=
+</p>
+
+<p class=3DDefault><span style=3D'font-size:7.0pt;mso-bidi-font-size:12.0pt=
+'>CEO
+and Founder<o:p></o:p></span></p>
+
+<p class=3DDefault><span style=3D'font-size:7.0pt;mso-bidi-font-size:12.0pt=
+'>JTD
+Properties Inc.<o:p></o:p></span></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_01CEE213.0A3514F0
+Content-Location: file:///C:/8589A1E1/la_files/item0001.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml
+
+<b:Sources SelectedStyle=3D"\APA.XSL" StyleName=3D"APA" xmlns:b=3D"http://s=
+chemas.openxmlformats.org/officeDocument/2006/bibliography" xmlns=3D"http:/=
+/schemas.openxmlformats.org/officeDocument/2006/bibliography"></b:Sources>
+------=_NextPart_01CEE213.0A3514F0
+Content-Location: file:///C:/8589A1E1/la_files/props002.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml
+
+<?xml version=3D"1.0" encoding=3D"UTF-8" standalone=3D"no"?>
+<ds:datastoreItem ds:itemID=3D"{208E290F-0CBB-4752-8C91-067A648BE8BD}" xmln=
+s:ds=3D"http://schemas.openxmlformats.org/officeDocument/2006/customXml"><d=
+s:schemaRefs><ds:schemaRef ds:uri=3D"http://schemas.openxmlformats.org/offi=
+ceDocument/2006/bibliography"/></ds:schemaRefs></ds:datastoreItem>
+------=_NextPart_01CEE213.0A3514F0
+Content-Location: file:///C:/8589A1E1/la_files/themedata.thmx
+Content-Transfer-Encoding: base64
+Content-Type: application/vnd.ms-officetheme
+
+UEsDBBQABgAIAAAAIQDp3g+//wAAABwCAAATAAAAW0NvbnRlbnRfVHlwZXNdLnhtbKyRy07DMBBF
+90j8g+UtSpyyQAgl6YLHjseifMDImSQWydiyp1X790zSVEKoIBZsLNkz954743K9Hwe1w5icp0qv
+8kIrJOsbR12l3zdP2a1WiYEaGDxhpQ+Y9Lq+vCg3h4BJiZpSpXvmcGdMsj2OkHIfkKTS+jgCyzV2
+JoD9gA7NdVHcGOuJkTjjyUPX5QO2sB1YPe7l+Zgk4pC0uj82TqxKQwiDs8CS1Oyo+UbJFkIuyrkn
+9S6kK4mhzVnCVPkZsOheZTXRNajeIPILjBLDsAyJX89nIBkt5r87nons29ZZbLzdjrKOfDZezE7B
+/xRg9T/oE9PMf1t/AgAA//8DAFBLAwQUAAYACAAAACEApdan58AAAAA2AQAACwAAAF9yZWxzLy5y
+ZWxzhI/PasMwDIfvhb2D0X1R0sMYJXYvpZBDL6N9AOEof2giG9sb69tPxwYKuwiEpO/3qT3+rov5
+4ZTnIBaaqgbD4kM/y2jhdj2/f4LJhaSnJQhbeHCGo3vbtV+8UNGjPM0xG6VItjCVEg+I2U+8Uq5C
+ZNHJENJKRds0YiR/p5FxX9cfmJ4Z4DZM0/UWUtc3YK6PqMn/s8MwzJ5PwX+vLOVFBG43lExp5GKh
+qC/jU72QqGWq1B7Qtbj51v0BAAD//wMAUEsDBBQABgAIAAAAIQBreZYWgwAAAIoAAAAcAAAAdGhl
+bWUvdGhlbWUvdGhlbWVNYW5hZ2VyLnhtbAzMTQrDIBBA4X2hd5DZN2O7KEVissuuu/YAQ5waQceg
+0p/b1+XjgzfO3xTVm0sNWSycBw2KZc0uiLfwfCynG6jaSBzFLGzhxxXm6XgYybSNE99JyHNRfSPV
+kIWttd0g1rUr1SHvLN1euSRqPYtHV+jT9yniResrJgoCOP0BAAD//wMAUEsDBBQABgAIAAAAIQCW
+ta3ilgYAAFAbAAAWAAAAdGhlbWUvdGhlbWUvdGhlbWUxLnhtbOxZT2/bNhS/D9h3IHRvYyd2Ggd1
+itixmy1NG8Ruhx5piZbYUKJA0kl9G9rjgAHDumGHFdhth2FbgRbYpfs02TpsHdCvsEdSksVYXpI2
+2IqtPiQS+eP7/x4fqavX7scMHRIhKU/aXv1yzUMk8XlAk7Dt3R72L615SCqcBJjxhLS9KZHetY33
+37uK11VEYoJgfSLXcduLlErXl5akD8NYXuYpSWBuzEWMFbyKcCkQ+AjoxmxpuVZbXYoxTTyU4BjI
+3hqPqU/QUJP0NnLiPQaviZJ6wGdioEkTZ4XBBgd1jZBT2WUCHWLW9oBPwI+G5L7yEMNSwUTbq5mf
+t7RxdQmvZ4uYWrC2tK5vftm6bEFwsGx4inBUMK33G60rWwV9A2BqHtfr9bq9ekHPALDvg6ZWljLN
+Rn+t3slplkD2cZ52t9asNVx8if7KnMytTqfTbGWyWKIGZB8bc/i12mpjc9nBG5DFN+fwjc5mt7vq
+4A3I4lfn8P0rrdWGizegiNHkYA6tHdrvZ9QLyJiz7Ur4GsDXahl8hoJoKKJLsxjzRC2KtRjf46IP
+AA1kWNEEqWlKxtiHKO7ieCQo1gzwOsGlGTvky7khzQtJX9BUtb0PUwwZMaP36vn3r54/RccPnh0/
++On44cPjBz9aQs6qbZyE5VUvv/3sz8cfoz+efvPy0RfVeFnG//rDJ7/8/Hk1ENJnJs6LL5/89uzJ
+i68+/f27RxXwTYFHZfiQxkSim+QI7fMYFDNWcSUnI3G+FcMI0/KKzSSUOMGaSwX9nooc9M0pZpl3
+HDk6xLXgHQHlowp4fXLPEXgQiYmiFZx3otgB7nLOOlxUWmFH8yqZeThJwmrmYlLG7WN8WMW7ixPH
+v71JCnUzD0tH8W5EHDH3GE4UDklCFNJz/ICQCu3uUurYdZf6gks+VuguRR1MK00ypCMnmmaLtmkM
+fplW6Qz+dmyzewd1OKvSeoscukjICswqhB8S5pjxOp4oHFeRHOKYlQ1+A6uoSsjBVPhlXE8q8HRI
+GEe9gEhZteaWAH1LTt/BULEq3b7LprGLFIoeVNG8gTkvI7f4QTfCcVqFHdAkKmM/kAcQohjtcVUF
+3+Vuhuh38ANOFrr7DiWOu0+vBrdp6Ig0CxA9MxHal1CqnQoc0+TvyjGjUI9tDFxcOYYC+OLrxxWR
+9bYW4k3Yk6oyYftE+V2EO1l0u1wE9O2vuVt4kuwRCPP5jeddyX1Xcr3/fMldlM9nLbSz2gplV/cN
+tik2LXK8sEMeU8YGasrIDWmaZAn7RNCHQb3OnA5JcWJKI3jM6rqDCwU2a5Dg6iOqokGEU2iw654m
+EsqMdChRyiUc7MxwJW2NhyZd2WNhUx8YbD2QWO3ywA6v6OH8XFCQMbtNaA6fOaMVTeCszFauZERB
+7ddhVtdCnZlb3YhmSp3DrVAZfDivGgwW1oQGBEHbAlZehfO5Zg0HE8xIoO1u997cLcYLF+kiGeGA
+ZD7Ses/7qG6clMeKuQmA2KnwkT7knWK1EreWJvsG3M7ipDK7xgJ2uffexEt5BM+8pPP2RDqypJyc
+LEFHba/VXG56yMdp2xvDmRYe4xS8LnXPh1kIF0O+EjbsT01mk+Uzb7ZyxdwkqMM1hbX7nMJOHUiF
+VFtYRjY0zFQWAizRnKz8y00w60UpYCP9NaRYWYNg+NekADu6riXjMfFV2dmlEW07+5qVUj5RRAyi
+4AiN2ETsY3C/DlXQJ6ASriZMRdAvcI+mrW2m3OKcJV359srg7DhmaYSzcqtTNM9kCzd5XMhg3kri
+gW6Vshvlzq+KSfkLUqUcxv8zVfR+AjcFK4H2gA/XuAIjna9tjwsVcahCaUT9voDGwdQOiBa4i4Vp
+CCq4TDb/BTnU/23OWRomreHAp/ZpiASF/UhFgpA9KEsm+k4hVs/2LkuSZYRMRJXElakVe0QOCRvq
+Griq93YPRRDqpppkZcDgTsaf+55l0CjUTU4535waUuy9Ngf+6c7HJjMo5dZh09Dk9i9ErNhV7Xqz
+PN97y4roiVmb1cizApiVtoJWlvavKcI5t1pbseY0Xm7mwoEX5zWGwaIhSuG+B+k/sP9R4TP7ZUJv
+qEO+D7UVwYcGTQzCBqL6km08kC6QdnAEjZMdtMGkSVnTZq2Ttlq+WV9wp1vwPWFsLdlZ/H1OYxfN
+mcvOycWLNHZmYcfWdmyhqcGzJ1MUhsb5QcY4xnzSKn914qN74OgtuN+fMCVNMME3JYGh9RyYPIDk
+txzN0o2/AAAA//8DAFBLAwQUAAYACAAAACEADdGQn7YAAAAbAQAAJwAAAHRoZW1lL3RoZW1lL19y
+ZWxzL3RoZW1lTWFuYWdlci54bWwucmVsc4SPTQrCMBSE94J3CG9v07oQkSbdiNCt1AOE5DUNNj8k
+UeztDa4sCC6HYb6ZabuXnckTYzLeMWiqGgg66ZVxmsFtuOyOQFIWTonZO2SwYIKObzftFWeRSyhN
+JiRSKC4xmHIOJ0qTnNCKVPmArjijj1bkIqOmQci70Ej3dX2g8ZsBfMUkvWIQe9UAGZZQmv+z/Tga
+iWcvHxZd/lFBc9mFBSiixszgI5uqTATKW7q6xN8AAAD//wMAUEsBAi0AFAAGAAgAAAAhAOneD7//
+AAAAHAIAABMAAAAAAAAAAAAAAAAAAAAAAFtDb250ZW50X1R5cGVzXS54bWxQSwECLQAUAAYACAAA
+ACEApdan58AAAAA2AQAACwAAAAAAAAAAAAAAAAAwAQAAX3JlbHMvLnJlbHNQSwECLQAUAAYACAAA
+ACEAa3mWFoMAAACKAAAAHAAAAAAAAAAAAAAAAAAZAgAAdGhlbWUvdGhlbWUvdGhlbWVNYW5hZ2Vy
+LnhtbFBLAQItABQABgAIAAAAIQCWta3ilgYAAFAbAAAWAAAAAAAAAAAAAAAAANYCAAB0aGVtZS90
+aGVtZS90aGVtZTEueG1sUEsBAi0AFAAGAAgAAAAhAA3RkJ+2AAAAGwEAACcAAAAAAAAAAAAAAAAA
+oAkAAHRoZW1lL3RoZW1lL19yZWxzL3RoZW1lTWFuYWdlci54bWwucmVsc1BLBQYAAAAABQAFAF0B
+AACbCgAAAAA=
+
+------=_NextPart_01CEE213.0A3514F0
+Content-Location: file:///C:/8589A1E1/la_files/colorschememapping.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml
+
+<?xml version=3D"1.0" encoding=3D"UTF-8" standalone=3D"yes"?>
+<a:clrMap xmlns:a=3D"http://schemas.openxmlformats.org/drawingml/2006/main"=
+ bg1=3D"lt1" tx1=3D"dk1" bg2=3D"lt2" tx2=3D"dk2" accent1=3D"accent1" accent=
+2=3D"accent2" accent3=3D"accent3" accent4=3D"accent4" accent5=3D"accent5" a=
+ccent6=3D"accent6" hlink=3D"hlink" folHlink=3D"folHlink"/>
+------=_NextPart_01CEE213.0A3514F0
+Content-Location: file:///C:/8589A1E1/la_files/image001.png
+Content-Transfer-Encoding: base64
+Content-Type: image/png
+
+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
+SIKCdTO6UacAAAAASUVORK5CYIJ=
+
+------=_NextPart_01CEE213.0A3514F0
+Content-Location: file:///C:/8589A1E1/la_files/image002.gif
+Content-Transfer-Encoding: base64
+Content-Type: image/gif
+
+R0lGODlh4wA/AHcAMSH+GlNvZnR3YXJlOiBNaWNyb3NvZnQgT2ZmaWNlACH5BAEAAAAALAIAAQDf
+AD0AhwAAAAAAAAUFBRUVFREREQsLCxcXFxsbGxAQEA0NDRISEgcHBwQEBAICAhYWFhkZGQkJCR8f
+HxwcHAMDAwoKCg4ODh0dHRoaGggICAEBAQ8PDx4eHhscGxgYGAYGBhMTExQUEwwMDBYYFhQUFAIC
+AxISEQ0ODRYYGA4MDgkLCRkbGwcHBhoaGAgKChITEgYHBxcXFgUFBBweHhUVExYWFBAREAUEBRgZ
+GA4ODRUVFBUXFRoaGQ8QDw4PDgkJCAwNDB8fHQIDAgQEAxQXFA8PDhASEAAAARkiGSAgHS4uLjs7
+OzIyMikpKT8/PyEhITY2NiIiIioqKiYmJigoKDU1NTMzMyQkJDk5OSAgIDw9PD09Ozc3MzU1MT09
+PScnJzExMTc3NywsLCUlJSMjIzM1MiIiISYoKCsrKy0tLTs7NygsLCMlJSIiIDQ0ND8/Ozc/Nygo
+JDMzMSgqKCYmIjAwLyQkIi4uKjtEO0Q/P0BAP0hISE5OTkJCQkFBQVVVVURERF1dXUxMTEBAQFFR
+UVlZWUBAREVFRV9fX0pKSkZGRlRUVERISENDQ1lZV0RMRGZmXX9/f2JiYmZmZnd3d3t7e25ubnNz
+c2pqan19fW5uZm6RboiIiICAgJGRkZWVlZmZmYaGhoyMjLu7u7e3t6qqqqKiorOzs9XV1czMzNnZ
+2d3d3e7u7ubm5v///wECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwEC
+AwECAwECAwECAwECAwECAwECAwECAwECAwECAwECAwj/AAEIHEiwoMGDCAcqSciwocOHECNKnEix
+osWLGAcqEDAgo8ePIEOKHEnSoBICBQAcKMmypcuXMCciSBmzps2bODMySWAgp8+fQIE6WcDgSdCj
+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
+CwCP0Rfr3Exn+gYEADs=
+
+------=_NextPart_01CEE213.0A3514F0
+Content-Location: file:///C:/8589A1E1/la_files/header.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 14">
+<meta name=3DOriginator content=3D"Microsoft Word 14">
+<link id=3DMain-File rel=3DMain-File href=3D"../la.htm">
+<![if IE]>
+<base href=3D"file:///C:\8589A1E1\la_files\header.htm" id=3D"webarch_temp_b=
+ase_tag">
+<![endif]>
+</head>
+
+<body lang=3DEN-CA link=3Dblue vlink=3Dpurple>
+
+<div style=3D'mso-element:footnote-separator' id=3Dfs>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'mso-special-character:footnote-separator'><![if !sup=
+portFootnotes]>
+
+<hr align=3Dleft size=3D1 width=3D"33%">
+
+<![endif]></span></p>
+
+</div>
+
+<div style=3D'mso-element:footnote-continuation-separator' id=3Dfcs>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'mso-special-character:footnote-continuation-separato=
+r'><![if !supportFootnotes]>
+
+<hr align=3Dleft size=3D1>
+
+<![endif]></span></p>
+
+</div>
+
+<div style=3D'mso-element:endnote-separator' id=3Des>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'mso-special-character:footnote-separator'><![if !sup=
+portFootnotes]>
+
+<hr align=3Dleft size=3D1 width=3D"33%">
+
+<![endif]></span></p>
+
+</div>
+
+<div style=3D'mso-element:endnote-continuation-separator' id=3Decs>
+
+<p class=3DMsoNormal style=3D'margin-bottom:0cm;margin-bottom:.0001pt;line-=
+height:
+normal'><span style=3D'mso-special-character:footnote-continuation-separato=
+r'><![if !supportFootnotes]>
+
+<hr align=3Dleft size=3D1>
+
+<![endif]></span></p>
+
+</div>
+
+<div style=3D'mso-element:footer' id=3Dff1>
+
+<p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+style=3D'font-size:8.0pt;line-height:115%;font-family:"Times New Roman","se=
+rif"'>For
+any questions Or concerns regarding the following Application, you may cont=
+act
+us by: (<span class=3DSpellE>i</span>) Phone: 1-855-9 BE-SEEN, (ii) Email: =
+</span><a
+href=3D"mailto:info@Signtrix.ca"><span style=3D'font-size:8.0pt;line-height=
+:115%;
+font-family:"Times New Roman","serif"'>info@Signtrix.ca</span></a><span
+style=3D'font-size:8.0pt;line-height:115%;font-family:"Times New Roman","se=
+rif"'>,
+Or (iii) Mail: <span class=3DSpellE>Signtrix</span> Corp., attention:
+Advertisement Customer Service, 272 Lester Street, Waterloo ON, N2L 3W5.<o:=
+p></o:p></span></p>
+
+<p class=3DMsoFooter><o:p>&nbsp;</o:p></p>
+
+</div>
+
+<div style=3D'mso-element:footer' id=3Dff2>
+
+<p class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><span
+style=3D'font-size:8.0pt;line-height:115%;font-family:"Times New Roman","se=
+rif"'>For
+any questions Or concerns regarding the following Application, you may cont=
+act
+us by: (<span class=3DSpellE>i</span>) Phone: 1-855-9 BE-SEEN, (ii) Email: =
+</span><a
+href=3D"mailto:info@Signtrix.ca"><span style=3D'font-size:8.0pt;line-height=
+:115%;
+font-family:"Times New Roman","serif"'>info@Signtrix.ca</span></a><span
+style=3D'font-size:8.0pt;line-height:115%;font-family:"Times New Roman","se=
+rif"'>,
+Or (iii) Mail: <span class=3DSpellE>Signtrix</span> Corp., attention:
+Advertisement Customer Service, 272 Lester Street, Waterloo ON, N2L 3W5.<o:=
+p></o:p></span></p>
+
+<p class=3DMsoFooter><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_01CEE213.0A3514F0
+Content-Location: file:///C:/8589A1E1/la_files/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../la.htm"/>
+ <o:File HRef=3D"item0001.xml"/>
+ <o:File HRef=3D"props002.xml"/>
+ <o:File HRef=3D"themedata.thmx"/>
+ <o:File HRef=3D"colorschememapping.xml"/>
+ <o:File HRef=3D"image001.png"/>
+ <o:File HRef=3D"image002.gif"/>
+ <o:File HRef=3D"header.htm"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01CEE213.0A3514F0--

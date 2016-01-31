@@ -1,0 +1,439 @@
+@import url(http://fonts.googleapis.com/css?family=PT+Sans:400,700);
+@import url(http://fonts.googleapis.com/css?family=Merriweather+Sans:400,700,800,300);
+@import url(http://fonts.googleapis.com/css?family=Domine:400,700);
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic);
+@import url(http://fonts.googleapis.com/css?family=Amaranth);
+
+
+/* GLOBAL STYLES
+-------------------------------------------------- */
+
+/* Padding below the footer and lighter body text */
+
+body {
+	padding: 50px 0px;
+	color: #EBEBEB;
+	background: #131313;
+  font-size: 1em;
+  font-family: sans-serif;
+
+	
+}
+hr {
+    border-bottom: 1px solid #999999;
+}
+p {
+  line-height: 1.75em;
+  
+}
+
+h1 {
+  margin: 15px 0px 30px 0px;
+  text-transform: uppercase;
+  color: #f9f9f9;
+}
+
+h2 {
+  color: #45BCD2;
+}
+/* Custom container */
+.container {
+	margin: 0 auto;
+	width: 1080px;
+	max-width: 1080px;
+}
+.container > hr {
+	margin: 20px 0;
+    border-bottom: 1px solid #999999;
+}
+.container > hr.sixty {
+  margin: 60px 0 60px 0;
+  border-bottom: 1px solid #999999;
+}
+
+img {
+	margin: 0px 0px;
+}
+
+legend {
+	color: #f9f9f9;
+}
+fieldset {
+
+}
+hr {
+  border-top: 1px solid #4A4A4A;
+  border-bottom: 1px solid #f9f9f9
+}
+.accordion-group {
+  border: none;
+}
+.accordion-heading h2 {
+  font-family: 'Domine', serif;
+  color: #ddd;
+      -webkit-transition: .2s;
+  -moz-transition: .2s;
+  -ms-transition: .2s;
+  -o-transition: .2s;
+  transition: .2s;
+}
+.accordion-heading a:hover {
+    text-decoration: none;
+}
+.accordion-heading a:hover h2 {
+    color: #45BCD2 ;
+}
+.accordion-heading .accordion-toggle {
+  padding: 0;
+}
+.mt20 {
+  margin-top:20px;
+}
+.info p {
+  font-size: 0.9em;
+  color: #C4C4C4;
+
+}
+
+div#contact {
+  margin-bottom: 50px;
+
+}
+/* NAVIGATION
+-------------------------------------------------- */
+
+  /* Customize the navbar links to be fill the entire space of the .navbar */
+/* Special class on .container surrounding .navbar, used for positioning it into place. */
+
+/* Remove border and change up box shadow for more contrast */
+.navbar-inverse .brand {
+  color: #999;
+      -webkit-transition: .2s;
+  -moz-transition: .2s;
+  -ms-transition: .2s;
+  -o-transition: .2s;
+  transition: .2s;
+}
+.navbar-inverse .brand > img {
+
+}
+.navbar-inverse .nav > li > a:hover {
+  color: #45BCD2;
+}
+.navbar-inverse .nav .active > a, .navbar-inverse .nav .active > a:hover, .navbar-inverse .nav .active > a:focus {
+  color: #45BCD2;
+}
+
+.navbar .navbar-inner {
+	border: 0px solid #ddd;
+	box-shadow: none;
+}
+
+.navbar-inner {
+	padding: 5px 0px;
+}
+.navbar-inverse .navbar-inner {
+	background: #131313;
+}	
+/* Downsize the brand/project name a bit */
+.navbar .brand {
+  padding: 15px 20px 16px; /* Increase vertical padding to match navbar links */
+  font-size: 40px;
+  font-weight: 300;
+  text-shadow: 0 -1px 0 rgba(0,0,0,.5);
+  font-family: Helvetica;
+}
+
+
+/* Navbar links: increase padding for taller navbar */
+.navbar .nav > li > a {
+  padding: 35px 20px;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: 300;
+  font-family: 'PT Sans', sans-serif;
+  letter-spacing: 0.2em;
+  -webkit-transition: .2s;
+  -moz-transition: .2s;
+  -ms-transition: .2s;
+  -o-transition: .2s;
+  transition: .2s;
+
+}
+
+/* Offset the responsive button for proper vertical alignment */
+.navbar .btn-navbar {
+  margin-top: 10px;
+}
+
+ul#myTab li {
+  font-size: 1.4em;
+  padding: 0 20px;
+}
+
+.nav-pills > li > a {
+  color: #45BCD2;
+  padding: 15px;
+  font-weight: normal;
+  font-family: 'Merriweather Sans', sans-serif;
+      -webkit-transition: .5s;
+  -moz-transition: .5s;
+  -ms-transition: .5s;
+  -o-transition: .5s;
+  transition: .5s;
+}
+
+.nav-pills > .active > a {
+  background: #999999;
+  color: #f9f9f9;
+}
+/* CUSTOMIZE THE CAROUSEL
+    -------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+	margin-top: 60px;
+  margin-bottom: 30px;
+}
+
+.carousel .container {
+  position: relative;
+  z-index: 9;
+}
+
+.carousel-control {
+  height: 80px;
+  margin-top: 0;
+  font-size: 120px;
+  text-shadow: 0 1px 1px rgba(0,0,0,.4);
+  background-color: transparent;
+  border: 0;
+  z-index: 10;
+}
+
+.carousel .item {
+  height: 500px;
+}
+.carousel img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 500px;
+}
+
+.carousel-caption {
+  background-color: transparent;
+  position: static;
+  max-width: 550px;
+  padding: 0 20px;
+  margin-top: 200px;
+}
+.carousel-caption h1,
+.carousel-caption .lead {
+  margin: 0;
+  line-height: 1.25;
+  color: #fff;
+  text-shadow: 0 1px 1px rgba(0,0,0,.4);
+}
+.carousel-caption .btn {
+  margin-top: 10px;
+}
+
+  /** ICONS **/
+.input-prepend {
+  display: block;
+}
+
+
+
+address > span {
+  color: #fff;
+  font-size: 0.9em;
+}
+address > i {
+  color: #fff;
+  font-size: 1.4em;
+
+}
+.input-prepend .add-on {
+  color: #121112;
+}
+
+i {
+  color: #45BCD2;
+}
+
+span i {
+  color: #fff;
+}
+
+.emp {
+  color: #45BCD2;
+  font-size: 1.3em;
+  font-weight: 700;
+  text-transform: uppercase;
+} 
+.emp-venue-s {
+  color: #45BCD2;
+  font-weight: 700;
+  font-size: 1em;
+  text-transform: uppercase;
+} 
+.emp-w {
+  color: #fff;
+  font-size: 1.3em;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+.emp-venue-w {
+  color: #999;
+  font-size: 1.1em;
+  font-weight: 400;
+
+}
+.emp-venue {
+   color: #a7a7a7;
+  font-size: 1.0em;
+  font-weight: 400;
+  text-transform: uppercase;
+}
+.emp-venue-s {
+  color: #45BCD2;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 1em;
+} 
+
+.emp-silver {
+    color: #999;
+  font-weight: 300;
+  text-transform: none;
+  font-size: 0.9em;
+  text-decoration: none;
+
+}
+.logo {
+  color: #45BCD2;
+}
+
+.img-polaroid {
+  margin: 10px 0;
+
+}
+#yellow-brand {
+  color: #ffff00;
+  text-transform: uppercase;
+
+}
+#yellow-brand a, a:active, a:hover {
+  color: #ffff00;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.accordion-heading h2  {
+  font-size: 1em;
+}
+
+#fixed-bg {
+  position:relative;
+  right: 0;
+
+}
+.thumbnail {
+  border: none;
+}
+.thumbnail > img {
+  height: 130px;
+  width: 180px;
+}
+.thumbnail h3 {
+  color: #45BCD2;
+  font-size: 1.1em;
+  line-height: 1.5em;
+}
+.thumbnail p {
+  font-size: 0.75em;
+}
+
+.span6 {
+  margin: 10px 0px 30px 0px;
+}
+.about-box >.label {
+  font-family: 'Amaranth';
+  font-size: 2.2em;
+  padding-top: 50px;
+  padding-left: 90px;
+  width: 300px;
+  background: #000;
+  margin: 45px 0px;
+  color: #45BCD2;
+}
+.label-info {
+  background: #000;
+}
+.center {
+  text-align: center;
+}
+.about-box {
+  display: block;
+}
+.carousel-caption {
+  margin: 0px;
+  padding: 0;
+  padding-top: 90px;
+  padding-left: 30px;
+}
+.carousel {
+  margin-top: -50px;
+  margin-bottom: 0px;
+} 
+.qqq {
+  display: block;
+  margin: 0 10px;
+}
+#left-a {
+  text-align: left;
+}
+#left-a p {
+  line-height: 1.1em;
+}
+.bl {
+  border-left: 1px solid #999999;
+  padding-left: 40px;
+}
+.boxx {
+  display: block;
+  width: 300px;
+}
+
+#about-brief {
+  margin-top: 60px;
+}
+.read-m {
+  margin-top: -80px;
+  z-index: 100;
+}
+.read-m > a {
+  z-index: 150;
+}
+.about-main {
+  position: relative;
+}
+
+.about-main > .caption {
+  position: absolute;
+  top: 70px;
+  left: 10px;
+}
+
+#cl {
+  opacity: 0.6;
+  border: 1px #999999 solid;
+}
+
+#about-pics {
+  margin-left: 100px;
+  width: 89%;
+}

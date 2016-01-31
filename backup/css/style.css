@@ -1,0 +1,220 @@
+
+/** Sticky Footer **/
+* {
+	margin: 0;
+}
+
+span {
+	color: #45BCD2;
+}
+html, body {
+	height: 100%;
+}
+body {
+	background: #45BCD2;
+	color: #202328;
+    font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 300;
+}
+fieldset {
+	border: 1px solid #F5F5F5;
+}
+
+fieldset legend {
+	background: #ffffff;
+	color: #202328;
+}
+
+.label {
+	border-radius: 5px;
+	padding: 10px;
+}
+.wrapper {
+	min-height: 100%;
+	height: auto !important;
+	height: 100%;
+	margin: 0 auto -3em;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	width: 70%;
+	background-color: #fff;
+	padding: 5px 15px;
+	border-radius: 12px;
+}
+.margin25{
+	margin: 25px 0;
+}
+.serv-header {
+	color: #45BCD2;
+	margin: 15px 0;
+	text-align: center;
+
+}
+
+h3.serv-header span {
+	color: #45BCD2;
+}
+.services {
+	text-align: center;
+}
+.contact {
+	padding: 10px;
+	text-align: center;
+}
+.content-info h4 {
+		padding: 15px 0;
+}
+hr {
+	border: 1px #202328 solid;
+}
+.footer {
+	height:4em;
+	background: #45BCD2 ;
+}
+/** Navigation **/
+.top-bar .name h1 a {
+	color: #202328;
+	font-size: 1.85em;
+}
+.contain-to-grid, .top-bar, .top-bar-section li a:not(.button) {
+	background: #45BCD2;
+}
+.top-bar-section li a:not(.button):hover {
+	text-decoration: none;
+	color: #202328;
+	background: #45BCD2;
+
+}
+.top-bar-section > ul > .divider {
+	border-right: solid 1px #45BCD2;
+	border-left: solid 1px #45BCD2;
+}
+
+.top-bar-section ul li > a { 
+	font-size: 0.95em;
+	color: #f9f9f9;
+		-webkit-transition: .2s;
+	-moz-transition: .2s;
+	-ms-transition: .2s;
+	-o-transition: .2s;
+	transition: .2s;
+}
+.top-bar-section ul li > a:hover {
+		
+		background: #fff;
+}
+.contain-to-grid, .top-bar {
+	margin-bottom: 0em;
+	border-radius: 5px;
+	background-color:#45BCD2;
+	width: 82%;
+	margin: 0 auto;
+
+
+}
+.contain-to-grid {
+	padding: 20px 0;
+
+}
+.panel {
+	border-radius: 5px;	
+}
+/** Index Content **/
+h2.landing-greet {
+	text-align: left;
+	color: #202328;
+	margin-top: 0.5em;
+	margin-bottom: 0.75em;
+	font-size: 1.3em;
+	font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 700;
+    padding: 10px;
+    border-top: 0px #202328 solid;
+    border-bottom: 5px #202328 solid;
+}
+h1.landing-greet {
+	text-align: left;
+	color: #202328;
+	margin-top: 0.5em;
+	margin-bottom: 0.75em;
+	font-size: 2.2em;
+	font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 700;
+    padding: 10px;
+    border-top: 0px #202328 solid;
+    border-bottom: 5px #202328 solid;
+}
+h2.landing-greet span {
+	color:#45BCD2;
+	font-size: 1.5em;
+}
+
+h1.landing-greet span {
+	color: #45BCD2;
+}
+h1, h2, h3, h4, h5, h6 {
+	color: #202328;
+}
+label {
+	color:#2BA6CB;
+}
+.partners-add {
+	color:#45BCD2;
+}
+.content-info {
+	border-radius: 15px;
+	border: 0px solid #ddd;
+	background-color: #fff	;
+}
+.top-bar .name h1 {
+	font-size: 1.5em;
+}
+
+.panel.callout h2{
+	color: #E5E6E6;
+}
+.panel h2, .panel p {
+	text-align: center;
+}
+ol.orbit-bullets {
+	margin: 0px;
+	overflow: none;
+}
+.orbit-captions {
+	text-align: center;
+}
+/** Footer **/
+footer {
+	padding: 25px;
+	text-align: center;
+	color:#202328;
+	font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+    font-weight: 500;
+}
+
+footer span {
+	color: #202328;
+}
+footer a {
+	color: #f9f9f9;
+}
+footer a:hover {
+	color: #202328;
+}
+/** Misc **/
+
+.margincenter {
+	margin: 0 auto;
+}
+.aligncenter {
+	text-align: center;
+}
+
+
+
+/** Social Media **/
+
+i.icon-2x {
+	margin-top: 10px;
+	color: #f9f9f9;
+}
